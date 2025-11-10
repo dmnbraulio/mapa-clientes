@@ -113,19 +113,32 @@ if not df_filtrado.empty:
 
     for _, row in df_filtrado.iterrows():
         color = color_map.get(row["CodigoZona"], "gray")
+
+        # 🔹 Crear enlace de Google Maps directo al punto (NUEVO)
+        google_maps_url = f"https://www.google.com/maps?q={row['Lat']},{row['Lng']}"
+
+        # 🔹 Popup con enlace clicable (NUEVO)
         popup_html = f"""
         <b>Botica:</b> {row['Botica']}<br>
         <b>Zona:</b> {row['ZonaNombre']} ({row['CodigoZona']})<br>
         <b>Cliente:</b> {row['CodigoCliente']} - {row['NombreCliente']}<br>
         <b>Referencias:</b> {row['Referencias']}<br>
-        <b>Dirección:</b> {row['Direccion']}
+        <b>Dirección:</b> {row['Direccion']}<br>
+        <br>
+        <a href="{google_maps_url}" target="_blank" 
+        style="background-color:#4285F4;color:white;padding:5px 10px;
+                border-radius:4px;text-decoration:none;">
+        🧭 Ver en Google Maps
+        </a>
         """
+
         folium.Marker(
             location=[row["Lat"], row["Lng"]],
-            popup=popup_html,
+            popup=folium.Popup(popup_html, max_width=300),
             tooltip=row["Botica"],
             icon=folium.Icon(color=color, icon="info-sign")
         ).add_to(m)
+
 
     st_folium(m, width=1400, height=600)
 else:
