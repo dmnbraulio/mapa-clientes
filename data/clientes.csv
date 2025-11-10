@@ -1,0 +1,43 @@
+﻿CodigoZona,ZonaNombre,CodigoCliente,NombreCliente,Botica,Referencias,Direccion,Lat,Lng,DescripcionOriginal
+SU03,Chorrillos,x,x,Botica San Miguel,Frente a Tottus de Prol. Huaylas,,-12.1748214,-77.0185172,SU03 - Chorrillos - x - x - Frente a Tottus de Prol. Huaylas
+SU03,Chorrillos,x,x,Botica Angelita,Cerca a Matellini con El Sol,,-12.1783347,-77.004782,SU03 - Chorrillos - x - x - Cerca a Matellini con El Sol
+SU03,Chorrillos,x,x,Botica FarmaSalud,Cruce del Sol con Faisanes,,-12.1763935,-76.9987835,SU03 - Chorrillos - x - x - Cruce del Sol con Faisanes
+SU03,Chorrillos,x,x,Botica SG Farma,Frente Mercado San Jose/En el parque San Genaro,,-12.1949807,-77.0203322,SU03 - Chorrillos - x - x - Frente Mercado San Jose/En el parque San Genaro
+SU02,SJM,x,x,Botica Delly Farma,Antes de Metro de Sur a Norte,,-12.1504995,-76.9798776,SU02 - SJM - x - x - Antes de Metro de Sur a Norte
+SU02,SJM,x,x,Botica Iris,Pamplona,,-12.1400302,-76.9689656,SU02 - SJM - x - x - Pamplona
+SU02,SJM,x,x,Botica David Farma,Pamplona baja/Cerca a Iris Farma de abajo (David) hacia arriba (Iris),,-12.1409592,-76.9694797,SU02 - SJM - x - x - Pamplona baja/Cerca a Iris Farma de abajo (David) hacia arriba (Iris)
+SU02,SJM,x,x,Botica Carlev,Pamplona alta - El policlinico está metido y no se puede entrar,,-12.1366251,-76.9483139,SU02 - SJM - x - x - Pamplona alta - El policlinico está metido y no se puede entrar
+SU02,SJM,x,x,Botica Jessica,Pamplona alta,,-12.1438263,-76.9474372,SU02 - SJM - x - x - Pamplona alta
+SU02,SJM/VES/VMT,x,x,Botica Mery Farma,Avenida Canevaro,,-12.1754297,-76.9667715,SU02 - SJM/VES/VMT - x - x - Avenida Canevaro
+SU02,SJM/VMT/VES,x,x,Botica La Salud,Av. Miguel Iglesias con Calle 5,,-12.1841247,-76.9605872,SU02 - SJM/VMT/VES - x - x - Av. Miguel Iglesias con Calle 5
+SU02,VMT,x,x,Botica FarmaLuz,Antes de 26 Noviembre,,-12.1818974,-76.9413854,SU02 - VMT - x - x - Antes de 26 Noviembre
+SU02,VMT,x,x,Botica Bienestar Sur,Frente a un paradero de micros,,-12.1726044,-76.933054,SU02 - VMT - x - x - Frente a un paradero de micros
+SU02,VMT,x,x,Botica Jose,Cerca a la entrada cementerio Nueva Esperanza,,-12.1678785,-76.9192221,SU02 - VMT - x - x - Cerca a la entrada cementerio Nueva Esperanza
+SU05,Lurin/Nuevo Lurin,x,x,Botica Red Farma - Pharma Max,,,-12.2964543,-76.8504533,SU05 - Lurin/Nuevo Lurin - x - x - 
+SU05,Manchay/Pachacamac,x,x,Botica TorresFarma,Entrada por cerro cementerio Nueva Esperanza o La Molina,,-12.1492934,-76.871273,SU05 - Manchay/Pachacamac - x - x - Entrada por cerro cementerio Nueva Esperanza o La Molina
+SU05,Manchay Pachacamac,x,x,Botica Ahorro Farma,Cerca a La Molina,,-12.112797,-76.8715434,SU05 - Manchay Pachacamac - x - x - Cerca a La Molina
+SU05,Manchay/Pachacamac,x,x,Pharma Central,Edificio celeste con portón azul,,-12.110353,-76.8726991,SU05 - Manchay/Pachacamac - x - x - Edificio celeste con portón azul
+ES05,Ate/Santa Clara,x,x,Botica MyM,Pista Nueva/Pasando el menu polleria luego izquierda,,-12.0210774,-76.8695185,ES05 - Ate/Santa Clara - x - x - Pista Nueva/Pasando el menu polleria luego izquierda
+ES05,Huaycan,x,x,Botica MeDex,Mercado Santa Rosa Huaycan,,-12.0152594,-76.8184586,ES05 - Huaycan - x - x - Mercado Santa Rosa Huaycan
+ES05,Huaycan,x,x,Botica Orli Farma,Zona J/Cerro Arriba,,-12.0293642,-76.8212654,ES05 - Huaycan - x - x - Zona J/Cerro Arriba
+ES02,Ate/Vitarte,x,x,Botica Sar Farma,Como yendo a dejar envases Proquim,,-12.0379296,-76.923635,ES02 - Ate/Vitarte - x - x - Como yendo a dejar envases Proquim
+ES02,Santa Anita,x,x,Botica NovaFarma,Avenida Los Chancas,,-12.0384799,-76.9665657,ES02 - Santa Anita - x - x - Avenida Los Chancas
+ES05,Cajamarquilla,x,x,Botica MultiSalud,Por Las Torres desvia a Cajamarquilla,,-11.9881024,-76.8991519,ES05 - Cajamarquilla - x - x - Por Las Torres desvia a Cajamarquilla
+ES04,Huachipa/Jicamarca,x,x,Botica San Martin,Subiendo Pasamayo Jicamarca/ Avenida Las Torres,,-12.0013122,-76.9211659,ES04 - Huachipa/Jicamarca - x - x - Subiendo Pasamayo Jicamarca/ Avenida Las Torres
+ES04,Huachipa/Jicamarca,x,x,Botica Myn Farma,Subiendo a Pasamayo Jicamarca,,-12.0007774,-76.9301981,ES04 - Huachipa/Jicamarca - x - x - Subiendo a Pasamayo Jicamarca
+IN02,SJL/Bajo,x,Drogueria Cadena Farm,ervicios Dentales del Peru,Club Metropolitano Wiracocha/Flores de Primavera,,-12.0095371,-77.007057,IN02 - SJL/Bajo - x - Drogueria Cadena Farm - Club Metropolitano Wiracocha/Flores de Primavera
+ES03,SJL/Medio,x,x,Botica Mi Esperanza,Arriba del mercado Valle Sagrado,,-11.9645088,-77.0017205,ES03 - SJL/Medio - x - x - Arriba del mercado Valle Sagrado
+ES03,SJL/Medio,x,x,Botica Orion,,,-11.9650099,-77.0092366,ES03 - SJL/Medio - x - x - 
+ES03,SJL/Arriba,x,x,Botica FarmaCentro,,,-11.9513451,-77.0052309,ES03 - SJL/Arriba - x - x - 
+ES03,SJL/Arriba,x,x,Botica MultiMedic - Corp. Jum Piom,No entrar por Central/ todo izquierda o de frente después de pasar Fernando Wiesse,,-11.9464642,-76.9777904,ES03 - SJL/Arriba - x - x - No entrar por Central/ todo izquierda o de frente después de pasar Fernando Wiesse
+ES03,SJL/Arriba,x,x,Botica Neo Pharma,Cerca a Pasamayo,,-11.8996346,-76.9620431,ES03 - SJL/Arriba - x - x - Cerca a Pasamayo
+ES03,Comas,x,x,Botica Vitali,Collique cerca a Pasamayo,,-11.9131094,-77.0090273,ES03 - Comas - x - x - Collique cerca a Pasamayo
+SU03,Chorrillos,x,x,Botica Grace,Urb Los Cedros de Villa,,-12.2056717,-77.0175269,SU03 - Chorrillos - x - x - Urb Los Cedros de Villa
+DSU01,SJM,x,x,Trebol Farma,Se puede dejar por Pedro Miotta,,-12.1667057,-76.9780034,DSU01 - SJM - x - x - Se puede dejar por Pedro Miotta
+DSU01,SJM,x,x,Farmacia San Martin de Porras,Frente a Dominos Pizza,,-12.1646362,-76.969132,DSU01 - SJM - x - x - Frente a Dominos Pizza
+SU02,SJM/VMT,x,x,Botica Narek,En la misma Pachacutec estacionar,,-12.1757953,-76.9458967,SU02 - SJM/VMT - x - x - En la misma Pachacutec estacionar
+SU03,VES,x,x,Botica MyaFarma,Cruce Revolución con Bolivar,,-12.2159553,-76.9350255,SU03 - VES - x - x - Cruce Revolución con Bolivar
+ES05,VMT/Lurin,x,x,Botica MyaFarma,Avenida Lima/Cerca a Lurin,,-12.2103097,-76.9063017,ES05 - VMT/Lurin - x - x - Avenida Lima/Cerca a Lurin
+SU05,VES/Lurin,x,x,Botica Valent's,Posta Medica Villa Alejandro,,-12.2361134,-76.9097031,SU05 - VES/Lurin - x - x - Posta Medica Villa Alejandro
+SU03,Surco,x,x,Botica Salud Farma,Plaza de Armas de Surco,,-12.143819,-77.0040833,SU03 - Surco - x - x - Plaza de Armas de Surco
+SU03,Surquillo,x,x,Farmacia MediSur,,,-12.1146749,-77.0163174,SU03 - Surquillo - x - x - 
