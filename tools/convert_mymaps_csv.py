@@ -220,3 +220,4 @@ if __name__ == "__main__":
    - Archivo limpio: {OUTPUT_FILE}
    - Copias de respaldo en: {DATA_ORIGINALES_DIR}
 """)
+    

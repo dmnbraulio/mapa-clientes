@@ -25,12 +25,12 @@ ES02,Santa Anita,x,x,Botica NovaFarma,Avenida Los Chancas,,-12.0384799,-76.96656
 ES05,Cajamarquilla,x,x,Botica MultiSalud,Por Las Torres desvia a Cajamarquilla,,-11.9881024,-76.8991519,ES05 - Cajamarquilla - x - x - Por Las Torres desvia a Cajamarquilla
 ES04,Huachipa/Jicamarca,x,x,Botica San Martin,Subiendo Pasamayo Jicamarca/ Avenida Las Torres,,-12.0013122,-76.9211659,ES04 - Huachipa/Jicamarca - x - x - Subiendo Pasamayo Jicamarca/ Avenida Las Torres
 ES04,Huachipa/Jicamarca,x,x,Botica Myn Farma,Subiendo a Pasamayo Jicamarca,,-12.0007774,-76.9301981,ES04 - Huachipa/Jicamarca - x - x - Subiendo a Pasamayo Jicamarca
-IN02,SJL/Bajo,x,Drogueria Cadena Farm,ervicios Dentales del Peru,Club Metropolitano Wiracocha/Flores de Primavera,,-12.0095371,-77.007057,IN02 - SJL/Bajo - x - Drogueria Cadena Farm - Club Metropolitano Wiracocha/Flores de Primavera
+IN02,SJL/Bajo,x,Drogueria Cadena Farm,Servicios Dentales del Peru,Club Metropolitano Wiracocha/Flores de Primavera,,-12.0095371,-77.007057,IN02 - SJL/Bajo - x - Drogueria Cadena Farm - Club Metropolitano Wiracocha/Flores de Primavera
 ES03,SJL/Medio,x,x,Botica Mi Esperanza,Arriba del mercado Valle Sagrado,,-11.9645088,-77.0017205,ES03 - SJL/Medio - x - x - Arriba del mercado Valle Sagrado
-ES03,SJL/Medio,x,x,Botica Orion,,,-11.9650099,-77.0092366,ES03 - SJL/Medio - x - x - 
+ES03,SJL,x,Inversiones Chirri’s E.I.R.L.,Botica Orion,,,-11.9650099,-77.0092366,ES03 - SJL - x - Inversiones Chirri’s E.I.R.L. - 
 ES03,SJL/Arriba,x,x,Botica FarmaCentro,,,-11.9513451,-77.0052309,ES03 - SJL/Arriba - x - x - 
 ES03,SJL/Arriba,x,x,Botica MultiMedic - Corp. Jum Piom,No entrar por Central/ todo izquierda o de frente después de pasar Fernando Wiesse,,-11.9464642,-76.9777904,ES03 - SJL/Arriba - x - x - No entrar por Central/ todo izquierda o de frente después de pasar Fernando Wiesse
-ES03,SJL/Arriba,x,x,Botica Neo Pharma,Cerca a Pasamayo,,-11.8996346,-76.9620431,ES03 - SJL/Arriba - x - x - Cerca a Pasamayo
+ES03,SJL,x,x,Botica Neo Pharma,Cerca a Pasamayo,,-11.8996346,-76.9620431,ES03 - SJL - x - x - Cerca a Pasamayo
 ES03,Comas,x,x,Botica Vitali,Collique cerca a Pasamayo,,-11.9131094,-77.0090273,ES03 - Comas - x - x - Collique cerca a Pasamayo
 SU03,Chorrillos,x,x,Botica Grace,Urb Los Cedros de Villa,,-12.2056717,-77.0175269,SU03 - Chorrillos - x - x - Urb Los Cedros de Villa
 DSU01,SJM,x,x,Trebol Farma,Se puede dejar por Pedro Miotta,,-12.1667057,-76.9780034,DSU01 - SJM - x - x - Se puede dejar por Pedro Miotta
@@ -47,7 +47,7 @@ NR03,Ventanilla/Pachacutec,x,x,Botica Hogar Pharma,Ovalo Labarthe/Por Av. 200 en
 NR01,San Martín de Porres/Callao,x,x,Botica Señor de Muruhuay/KyM,Auxilliar Canta Callao antes de llegar a Izaguirre,,-11.9868135,-77.103448,NR01 - San Martín de Porres/Callao - x - x - Auxilliar Canta Callao antes de llegar a Izaguirre
 NR04,Comas,x,x,Bóricas Edith,Retablo con Micaela/ Pasando esquina del lado dirección Trapiche,,-11.928684,-77.0564261,NR04 - Comas - x - x - Retablo con Micaela/ Pasando esquina del lado dirección Trapiche
 NR04,Comas/Collique,x,x,Botica F y C,Antes de llegar a tráfico de las combis de abajo hacia arriba,,-11.9152151,-77.0307213,NR04 - Comas/Collique - x - x - Antes de llegar a tráfico de las combis de abajo hacia arriba
-IN02,San Miguel,x,x,Distribuidores P y G,Todo Elmer Faucett,,-12.0667732,-77.0992925,IN02 - San Miguel - x - x - Todo Elmer Faucett
+IN02,San Miguel,x,x,Distribuidores P y G,Todo Elmer Faucett,,-12.066865,-77.0993368,IN02 - San Miguel - x - x - Todo Elmer Faucett
 NR05,Ancon/Villa Estela,x,x,Farmacia Farmamed,Después de dar vuelta en U por la panamericana entrar a la curva derecha y entrar calle 29,,-11.8141818,-77.1318255,NR05 - Ancon/Villa Estela - x - x - Después de dar vuelta en U por la panamericana entrar a la curva derecha y entrar calle 29
 NR05,Puente Piedra,x,x,Botica PrisFarma,Espalda Tottus Pte. Piedra,,-11.8700836,-77.072165,NR05 - Puente Piedra - x - x - Espalda Tottus Pte. Piedra
 NR01,Independencia,x,x,Botica Dr. Lescano,Por la estación Jazmines/Entrar por túnel MegaPlaza,,-12.0018786,-77.055172,NR01 - Independencia - x - x - Por la estación Jazmines/Entrar por túnel MegaPlaza
@@ -63,7 +63,7 @@ ES03,Campoy,x,x,Botica AriFarma,,,-12.0148593,-76.9631651,ES03 - Campoy - x - x 
 ES03,Campoy,x,x,Mendoza Chancasana Haydee,Cerro de Campoy/Zarco portal de Huarochiri Campoy,,-12.0067918,-76.9566875,ES03 - Campoy - x - x - Cerro de Campoy/Zarco portal de Huarochiri Campoy
 CE02,Barrios Altos,x,x,Botica Herval,Buscar cochera por Huanta o Cuzco,,-12.0513779,-77.023084,CE02 - Barrios Altos - x - x - Buscar cochera por Huanta o Cuzco
 Capon Center,Jr Cusco,x,x,Cochera/Capon Center,x,,-12.0535527,-77.0243853,Capon Center - Jr Cusco
-CE02,,x,x,SamyFarma,x,,-12.0553934,-77.0135058,CE02 - 
+CE02,,x,x,Botica SamyFarma,x,,-12.0553934,-77.0135058,CE02 - 
 NR04,Comas/Pro Lima,x,x,Brito Casimiro Natalia Fiorella,,,-11.9181691,-77.0708014,NR04 - Comas/Pro Lima - x - x - 
 NR05,Puente Piedra,x,x,Botica Family Group CV,,,-11.9023279,-77.0670495,NR05 - Puente Piedra - x - x - 
 NR05,Zapallal,x,x,Botica Thiago,,,-11.8434754,-77.1097674,NR05 - Zapallal - x - x - 
@@ -101,9 +101,9 @@ NR03,Ventanilla,x,Guarnizo Barrazueta Yobany,Botica Virgen del Carmen,x,,-11.852
 NR03,Callao/SMP,x,Silva Torres Isabel Susan,Botica Fabricio S&A,,,-11.9838155,-77.1161102,NR03 - Callao/SMP - x - Silva Torres Isabel Susan - 
 NR0,Callao/SMP,x,Inversiones Semmas EIRL,Botica Los Angeles,Al costado de GoodPharma,,-11.9733855,-77.1029524,NR0 - Callao/SMP - x - Inversiones Semmas EIRL - Al costado de GoodPharma
 NR03,Callao/SMP,x,Boticas M&S SAC,Botica M&S,x,,-12.0233297,-77.0982114,NR03 - Callao/SMP - x - Boticas M&S SAC
-NR03,Callao,x,Fernandez Ore Maximo Rene,Botica de a sol Gimena/Jimena,,,-12.0401095,-77.0901608,NR03 - Callao - x - Fernandez Ore Maximo Rene - 
+NR03,Callao,x,Fernandez Ore Maximo Rene,Botica de A Sol Gimena/Jimena,,,-12.0401095,-77.0901608,NR03 - Callao - x - Fernandez Ore Maximo Rene - 
 NR01,Zarumilla,x,,Botica,x,,-12.0346296,-77.0472402,NR01 - Zarumilla - x - 
-NR05,Puente Piedra,x,Mallco Huarcaya Edwin,MiFarmedic,x,,-11.8904218,-77.0670234,NR05 - Puente Piedra - x - Mallco Huarcaya Edwin
+NR05,Puente Piedra,x,Mallco Huarcaya Edwin,Botica MiFarmedic,x,,-11.8904218,-77.0670234,NR05 - Puente Piedra - x - Mallco Huarcaya Edwin
 NR05,Zapallal,x,x,Botica BTL Farma,,,-11.8539097,-77.0893888,NR05 - Zapallal - x - x - 
 NR05,Zapallal,x,x,Botica InkaLider,x,,-11.8427475,-77.1014021,NR05 - Zapallal
 NR05,Zapallal,x,x,Botica Bethel,x,,-11.8464473,-77.0997599,NR05 - Zapallal - x - x
@@ -117,3 +117,60 @@ NR04,Carabayllo,x,x,Botica El Amigo,,,-11.8428032,-77.0769151,NR04 - Carabayllo-
 NR04,Carabayllo,x,Albujar Fernandez Evelyn Carol,Botica Sin Nombre,x,,-11.8549563,-77.0362514,NR04 - Carabayllo - x - Albujar Fernandez Evelyn Carol
 NR05,Puente Piedra/Establo,x,x,Botica Vida y Farma,,,-11.8901729,-77.0687074,NR05 - Puente Piedra/Establo - x - x - 
 NR03,Callao,x,x,Botica Cruz Roja 3,x,,-12.0448593,-77.1096071,NR03 - Callao
+NR04,Carabayllo,x,Tejada Rodriguez José Luis,Botica Sin Nombre,x,,-11.8754365,-77.0173081,NR04 - Carabayllo - x - Tejada Rodriguez José Luis
+NR04,Carabayllo,x,Ramirez Quintana Deysi Esmeralda,Botica El Paraíso/MilanFarma,,,-11.8641183,-77.0191468,NR04 - Carabayllo - x - Ramirez Quintana Deysi Esmeralda - 
+NR05,Pro Lima,x,Cama Flores Marisol Xiomara,Botica Sin Nombre,,,-11.9229036,-77.0776226,NR05 - Pro Lima - x - Cama Flores Marisol Xiomara - 
+NR01,SMP,x,Consorcio Ramms SRL,Botica Nueva Salud,,,-11.9634784,-77.1019344,NR01 - SMP - x - Consorcio Ramms SRL - 
+NR01,SMP,x,,Botica Nueva Salud,x,,-11.965272,-77.0914138,NR01 - SMP - x - 
+NR01,Callao,x,,Botica Bethel,x,,-12.001234,-77.1101491,NR01 - Callao - x - 
+ES04,Chosica,x,Mendoza Sanchez Henry Raul,Botica Farmenza,,,-11.9351366,-76.7160609,ES04 - Chosica - x - Mendoza Sanchez Henry Raul - 
+ES04,Lurigancho/Jicamarca,x,Lozano Ricaldi Jessica Yudith,Botica Sanidad,,,-11.9729721,-76.9398943,ES04 - Lurigancho/Jicamarca - x - Lozano Ricaldi Jessica Yudith - 
+ES04,Lurigancho/Jicamarca,x,Bonifacio Najera Edwer Victor,Botica Primero mi salud,,,-11.9776921,-76.9417849,ES04 - Lurigancho/Jicamarca - x - Bonifacio Najera Edwer Victor - 
+ES04,Lurigancho/Cajamarquilla,x,Antiporta Carhuamaca Erica Maricela,Botica J & M Farma,,,-11.9801523,-76.9066435,ES04 - Lurigancho/Cajamarquilla - x - Antiporta Carhuamaca Erica Maricela - 
+IN02,SJL,x,x,Empresa Corporación,,,-12.0242405,-76.9910372,IN02 - SJL - x - x - 
+NR05,Ancon,x,Policlinico Corazón Andino,Botica Corazón Andino,Doblar izquierda antes de peaje,,-11.7357143,-77.1446861,NR05 - Ancon - x - Policlinico Corazón Andino - Doblar izquierda antes de peaje
+ES03,SJL,x,Zamora Gutierrez Vilma,Botica Sana Sana,Cerro de SJL,,-11.9225362,-76.9606997,ES03 - SJL - x - Zamora Gutierrez Vilma - Cerro de SJL
+ES04,Ate,x,Carhuaricra Alvino Mary Luz,Botica Farma Alvinos,Entrar en Horacio Zevallos y de frente.,,-12.0115727,-76.8402342,ES04 - Ate - x - Carhuaricra Alvino Mary Luz - Entrar en Horacio Zevallos y de frente.
+ES04,Ate/Santa Clara,x,x,Botica Farma Salud,,,-12.0183997,-76.8754093,ES04 - Ate/Santa Clara - x - x - 
+IN02,Ate/Santa Clara,x,Droguería Distribuidora Grupo Farma S.A.C.,Grupo Farma,Edificio blanco frente a Ferretería Esmeralda,,-12.026155,-76.8900608,IN02 - Ate/Santa Clara - x - Droguería Distribuidora Grupo Farma S.A.C. - Edificio blanco frente a Ferretería Esmeralda
+NR04,Comas/Belaunde,x,Paulino Medrano Esther Elizabeth,Botica J&A,Cementerio Belaunde,,-11.9436766,-77.0285862,NR04 - Comas/Belaunde - x - Paulino Medrano Esther Elizabeth - Cementerio Belaunde
+NR05,PP,x,Quispe Marin Ryder,Botica Linka Plus,Escuela policías/auxiliar y entrar en puquial,,-11.8883004,-77.0662566,NR05 - PP - x - Quispe Marin Ryder - Escuela policías/auxiliar y entrar en puquial 
+NR03,Ventanilla/Pachacutec,x,Vasquez Quintana Junior Renato,Botica Junior,,,-11.8322735,-77.1441265,NR03 - Ventanilla/Pachacutec - x - Vasquez Quintana Junior Renato - 
+NR03,Ventanilla,x,x,Botica Famy Salud,,,-11.8436848,-77.1273087,NR03 - Ventanilla - x - x - 
+NR03,Ventanilla,x,Bances Chapoñan Erika Aracely,Botica GissFarma,Fachada Pro Farma,,-11.8300802,-77.1186977,NR03 - Ventanilla - x - Bances Chapoñan Erika Aracely - Fachada Pro Farma
+NR03,Callao/Ventanilla,x,,Botica Señor de Mayo,x,,-11.9747426,-77.1153839,NR03 - Callao/Ventanilla - x - 
+NR01,Los Olivos,x,Grupo Josmil SAC,Botica NorFarma,Antes de Huandoy viniendo por Canta Callao,,-11.9490388,-77.0800873,NR01 - Los Olivos - x - Grupo Josmil SAC - Antes de Huandoy viniendo por Canta Callao
+NR04,Carabayllo/Comas,x,Cuadros Oriondo Ruth Liliana,Botica FarmaUnidas,,,-11.8912918,-77.0253582,NR04 - Carabayllo/Comas - x - Cuadros Oriondo Ruth Liliana - 
+NR05,PP,x,Perez Linares Maria Elita,Casa Cliente Perez Linares Maria Elita,,,-11.8561803,-77.0709865,NR05 - PP - x - Perez Linares Maria Elita - 
+NR05,PP,x,Tolentino Alegre Ines Jessica,Botica Super Farma,,,-11.8547684,-77.0687875,NR05 - PP - x - Tolentino Alegre Ines Jessica - 
+NR03,Ventanilla/Pachacutec,x,Inversiones MasterFarm S.A.C.,Botica InkaMedi,Tiene nombre Botica Mi Salud,,-11.8523001,-77.1409705,NR03 - Ventanilla/Pachacutec - x - Inversiones MasterFarm S.A.C. - Tiene nombre Botica Mi Salud
+NR03,Ventanilla/Pachacutec,x,Miranda Palpaso Darleen Odaliz,Botica Sin Nombre,Fachada Botica FarmaMarket,,-11.8346375,-77.1588334,NR03 - Ventanilla/Pachacutec - x - Miranda Palpaso Darleen Odaliz - Fachada Botica FarmaMarket
+NR05,PP,x,x,Botica NilFarma,,,-11.8497858,-77.1006996,NR05 - PP - x - x - 
+NR05,PP,x,Valenzuela Dominguez Kipler,Botica FarmaNorte,,,-11.8490722,-77.0946737,NR05 - PP - x - Valenzuela Dominguez Kipler - 
+NR05,PP/Rosa Luz,x,Nuñez Segura Nelva,Botica Unidas Por Su Salud,,,-11.8815648,-77.0699301,NR05 - PP/Rosa Luz - x - Nuñez Segura Nelva - 
+NR04,Comas,x,Olivares Condor Daniel,Botica Olicon,,,-11.9551803,-77.060575,NR04 - Comas - x - Olivares Condor Daniel - 
+NR04,Comas,x,Medicamentos Vida Saludable S.A.C.,Botica Vida & Farma,,,-11.9458294,-77.0499938,NR04 - Comas - x - Medicamentos Vida Saludable S.A.C. - 
+CE02,Breña,x,Llallico Tovar Zeida Zulema,Botica Cadena de Farmacias Salud Total,,,-12.0674959,-77.0511804,CE02 - Breña - x - Llallico Tovar Zeida Zulema - 
+CE02,La Victoria,x,COMERCIAL LA SANTÍSIMA MARÍA S.R.L.,Botica La Santísima Maria,,,-12.0621348,-77.0125059,CE02 - La Victoria - x - COMERCIAL LA SANTÍSIMA MARÍA S.R.L. - 
+CE02,El Agustino,x,Garcilazo Pingo de Pizarro Miriam Magdelin,Botica KamiFarma,,,-12.0410565,-76.9976453,CE02 - El Agustino - x - Garcilazo Pingo de Pizarro Miriam Magdelin - 
+CE02,El Agustino,x,x,Botica Cristo Rey,,,-12.0306789,-76.9990792,CE02 - El Agustino - x - x - 
+DES01,El Agustino,x,Fernandez Llamo Jose Elder,Botica Farma Salud,,,-12.044377,-76.9858563,DES01 - El Agustino - x - Fernandez Llamo Jose Elder - 
+CE02,El Agustino,x,Cuellar Macavilca Yhojan Eliseo,Botica Pharmed,,,-12.0451991,-77.0001736,CE02 - El Agustino - x - Cuellar Macavilca Yhojan Eliseo - 
+CE02,Cercado de Lima,x,Ticse Surichaqui Edwin,Botica Emanuel,,,-12.0376598,-77.049414,CE02 - Cercado de Lima - x - Ticse Surichaqui Edwin - 
+ES03,SJL,x,Avila Medina Yesy,Farmacia San Pedro,x,,-11.9114656,-76.9662863,ES03 - SJL - x - Avila Medina Yesy
+ES03,SJL,x,x,Botica Roman,,,-11.9258234,-76.9602719,ES03 - SJL - x - x - 
+ES03,SJL,x,Silvestre Inocente Maria Lisett,Botica Raul,Está dentro del grifo “Jicamarca”,,-11.9124401,-76.9485522,ES03 - SJL - x - Silvestre Inocente Maria Lisett - Está dentro del grifo “Jicamarca”
+ES03,SJL,x,Flores Zavaleta Alfonso Francisco,Botica K&J,,,-11.9415035,-76.9964384,ES03 - SJL - x - Flores Zavaleta Alfonso Francisco - 
+ES03,SJL,x,Velasquez Eusebio Tomas,Botica Velasquez,,,-11.9394745,-76.9963916,ES03 - SJL - x - Velasquez Eusebio Tomas - 
+ES03,SJL,x,x,Botica RossFarma,,,-11.9647411,-76.9684528,ES03 - SJL - x - x - 
+ES03,SJL,x,Torres Chavarria Adrian,Botica Sin Nombre,Fachada “Arats Farma”,,-11.9646601,-76.9684692,ES03 - SJL - x - Torres Chavarria Adrian - Fachada “Arats Farma”
+ES03,SJL,x,x,Botica Biosana,,,-11.9767569,-77.019179,ES03 - SJL - x - x - 
+ES03,SJL,x,Inversiones Rio Mantaro E.I.R.L.,Botica Tu Farma,,,-11.9897482,-77.002942,ES03 - SJL - x - Inversiones Rio Mantaro E.I.R.L. - 
+ES03,SJL,x,Inga Poma Janet Erica,Botica C Farma,,,-11.9881726,-77.003968,ES03 - SJL - x - Inga Poma Janet Erica - 
+ES03,SJL,x,Tucuman E.I.R.L.,Policlinico Tucuman,,,-11.9955767,-77.0098068,ES03 - SJL - x - Tucuman E.I.R.L. - 
+ES03,SJL,x,Rodriguez Gariza Elman,Botica R&G,,,-11.997486,-77.0003449,ES03 - SJL - x - Rodriguez Gariza Elman - 
+ES03,SJL,x,Castañeda Teves Maria Julia,Botica MV Farma,,,-11.9963853,-77.0157137,ES03 - SJL - x - Castañeda Teves Maria Julia - 
+ES03,SJL,x,x,Botica Inka Salud,,,-12.0034208,-76.991777,ES03 - SJL - x - x - 
+ES03,SJL,x,Jhopac Multiservicios E.I.R.L.,Botica Jamely,,,-12.0072418,-76.9971616,ES03 - SJL - x - Jhopac Multiservicios E.I.R.L. - 
+ES03,SJL,x,Farma Imperio S.A.C.,Farmacia Imperio,,,-12.0070445,-76.9908021,ES03 - SJL - x - Farma Imperio S.A.C. - 
+ES03,SJL,x,Gonzales Espinoza Herlinda Hilda,Botica Sin Nombre,,,-12.026662,-77.0046321,ES03 - SJL - x - Gonzales Espinoza Herlinda Hilda - 

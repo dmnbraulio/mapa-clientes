@@ -25,12 +25,12 @@ WKT,nombre,descripción
 "POINT (-76.8991519 -11.9881024)",Botica MultiSalud,ES05 - Cajamarquilla - x - x - Por Las Torres desvia a Cajamarquilla
 "POINT (-76.9211659 -12.0013122)",Botica San Martin,ES04 - Huachipa/Jicamarca - x - x - Subiendo Pasamayo Jicamarca/ Avenida Las Torres
 "POINT (-76.9301981 -12.0007774)",Botica Myn Farma,ES04 - Huachipa/Jicamarca - x - x - Subiendo a Pasamayo Jicamarca
-"POINT (-77.007057 -12.0095371)",ervicios Dentales del Peru,IN02 - SJL/Bajo - x - Drogueria Cadena Farm - Club Metropolitano Wiracocha/Flores de Primavera
+"POINT (-77.007057 -12.0095371)",Servicios Dentales del Peru,IN02 - SJL/Bajo - x - Drogueria Cadena Farm - Club Metropolitano Wiracocha/Flores de Primavera
 "POINT (-77.0017205 -11.9645088)",Botica Mi Esperanza,ES03 - SJL/Medio - x - x - Arriba del mercado Valle Sagrado
-"POINT (-77.0092366 -11.9650099)",Botica Orion,ES03 - SJL/Medio - x - x - 
+"POINT (-77.0092366 -11.9650099)",Botica Orion,ES03 - SJL - x - Inversiones Chirri’s E.I.R.L. - 
 "POINT (-77.0052309 -11.9513451)",Botica FarmaCentro,ES03 - SJL/Arriba - x - x - 
 "POINT (-76.9777904 -11.9464642)",Botica MultiMedic - Corp. Jum Piom,ES03 - SJL/Arriba - x - x - No entrar por Central/ todo izquierda o de frente después de pasar Fernando Wiesse
-"POINT (-76.9620431 -11.8996346)",Botica Neo Pharma,ES03 - SJL/Arriba - x - x - Cerca a Pasamayo
+"POINT (-76.9620431 -11.8996346)",Botica Neo Pharma,ES03 - SJL - x - x - Cerca a Pasamayo
 "POINT (-77.0090273 -11.9131094)",Botica Vitali,ES03 - Comas - x - x - Collique cerca a Pasamayo
 "POINT (-77.0175269 -12.2056717)",Botica Grace,SU03 - Chorrillos - x - x - Urb Los Cedros de Villa
 "POINT (-76.9780034 -12.1667057)",Trebol Farma,DSU01 - SJM - x - x - Se puede dejar por Pedro Miotta
@@ -47,7 +47,7 @@ WKT,nombre,descripción
 "POINT (-77.103448 -11.9868135)",Botica Señor de Muruhuay/KyM,NR01 - San Martín de Porres/Callao - x - x - Auxilliar Canta Callao antes de llegar a Izaguirre
 "POINT (-77.0564261 -11.928684)",Bóricas Edith,NR04 - Comas - x - x - Retablo con Micaela/ Pasando esquina del lado dirección Trapiche
 "POINT (-77.0307213 -11.9152151)",Botica F y C,NR04 - Comas/Collique - x - x - Antes de llegar a tráfico de las combis de abajo hacia arriba
-"POINT (-77.0992925 -12.0667732)",Distribuidores P y G,IN02 - San Miguel - x - x - Todo Elmer Faucett
+"POINT (-77.0993368 -12.066865)",Distribuidores P y G,IN02 - San Miguel - x - x - Todo Elmer Faucett
 "POINT (-77.1318255 -11.8141818)",Farmacia Farmamed,NR05 - Ancon/Villa Estela - x - x - Después de dar vuelta en U por la panamericana entrar a la curva derecha y entrar calle 29
 "POINT (-77.072165 -11.8700836)",Botica PrisFarma,NR05 - Puente Piedra - x - x - Espalda Tottus Pte. Piedra
 "POINT (-77.055172 -12.0018786)",Botica Dr. Lescano,NR01 - Independencia - x - x - Por la estación Jazmines/Entrar por túnel MegaPlaza
@@ -63,7 +63,7 @@ WKT,nombre,descripción
 "POINT (-76.9566875 -12.0067918)",Mendoza Chancasana, Haydee,ES03 - Campoy - x - x - Cerro de Campoy/Zarco portal de Huarochiri Campoy
 "POINT (-77.023084 -12.0513779)",Botica Herval,CE02 - Barrios Altos - x - x - Buscar cochera por Huanta o Cuzco
 "POINT (-77.0243853 -12.0535527)",Cochera/Capon Center,Capon Center - Jr Cusco
-"POINT (-77.0135058 -12.0553934)",SamyFarma,CE02 - 
+"POINT (-77.0135058 -12.0553934)",Botica SamyFarma,CE02 - 
 "POINT (-77.0708014 -11.9181691)",Brito Casimiro Natalia Fiorella,NR04 - Comas/Pro Lima - x - x - 
 "POINT (-77.0670495 -11.9023279)",Botica Family Group CV,NR05 - Puente Piedra - x - x - 
 "POINT (-77.1097674 -11.8434754)",Botica Thiago,NR05 - Zapallal - x - x - 
@@ -101,9 +101,9 @@ WKT,nombre,descripción
 "POINT (-77.1161102 -11.9838155)",Botica Fabricio S&A,NR03 - Callao/SMP - x - Silva Torres Isabel Susan - 
 "POINT (-77.1029524 -11.9733855)",Botica Los Angeles,NR0 - Callao/SMP - x - Inversiones Semmas EIRL - Al costado de GoodPharma
 "POINT (-77.0982114 -12.0233297)",Botica M&S,NR03 - Callao/SMP - x - Boticas M&S SAC
-"POINT (-77.0901608 -12.0401095)",Botica de a sol Gimena/Jimena,NR03 - Callao - x - Fernandez Ore Maximo Rene - 
+"POINT (-77.0901608 -12.0401095)",Botica de A Sol Gimena/Jimena,NR03 - Callao - x - Fernandez Ore Maximo Rene - 
 "POINT (-77.0472402 -12.0346296)",Botica ,NR01 - Zarumilla - x - 
-"POINT (-77.0670234 -11.8904218)",MiFarmedic,NR05 - Puente Piedra - x - Mallco Huarcaya Edwin
+"POINT (-77.0670234 -11.8904218)",Botica MiFarmedic,NR05 - Puente Piedra - x - Mallco Huarcaya Edwin
 "POINT (-77.0893888 -11.8539097)",Botica BTL Farma,NR05 - Zapallal - x - x - 
 "POINT (-77.1014021 -11.8427475)",Botica InkaLider,NR05 - Zapallal
 "POINT (-77.0997599 -11.8464473)",Botica Bethel,NR05 - Zapallal - x - x
@@ -117,3 +117,60 @@ WKT,nombre,descripción
 "POINT (-77.0362514 -11.8549563)",Botica Sin Nombre,NR04 - Carabayllo - x - Albujar Fernandez Evelyn Carol
 "POINT (-77.0687074 -11.8901729)",Botica Vida y Farma,NR05 - Puente Piedra/Establo - x - x - 
 "POINT (-77.1096071 -12.0448593)",Botica Cruz Roja 3,NR03 - Callao
+"POINT (-77.0173081 -11.8754365)",Botica Sin Nombre,NR04 - Carabayllo - x - Tejada Rodriguez José Luis
+"POINT (-77.0191468 -11.8641183)",Botica El Paraíso/MilanFarma,NR04 - Carabayllo - x - Ramirez Quintana Deysi Esmeralda - 
+"POINT (-77.0776226 -11.9229036)",Botica Sin Nombre,NR05 - Pro Lima - x - Cama Flores Marisol Xiomara - 
+"POINT (-77.1019344 -11.9634784)",Botica Nueva Salud,NR01 - SMP - x - Consorcio Ramms SRL - 
+"POINT (-77.0914138 -11.965272)",Botica Nueva Salud,NR01 - SMP - x - 
+"POINT (-77.1101491 -12.001234)",Botica Bethel,NR01 - Callao - x - 
+"POINT (-76.7160609 -11.9351366)",Botica Farmenza,ES04 - Chosica - x - Mendoza Sanchez Henry Raul - 
+"POINT (-76.9398943 -11.9729721)",Botica Sanidad,ES04 - Lurigancho/Jicamarca - x - Lozano Ricaldi Jessica Yudith - 
+"POINT (-76.9417849 -11.9776921)",Botica Primero mi salud,ES04 - Lurigancho/Jicamarca - x - Bonifacio Najera Edwer Victor - 
+"POINT (-76.9066435 -11.9801523)",Botica J & M Farma,ES04 - Lurigancho/Cajamarquilla - x - Antiporta Carhuamaca Erica Maricela - 
+"POINT (-76.9910372 -12.0242405)",Empresa Corporación,IN02 - SJL - x - x - 
+"POINT (-77.1446861 -11.7357143)",Botica Corazón Andino,NR05 - Ancon - x - Policlinico Corazón Andino - Doblar izquierda antes de peaje
+"POINT (-76.9606997 -11.9225362)",Botica Sana Sana,ES03 - SJL - x - Zamora Gutierrez Vilma - Cerro de SJL
+"POINT (-76.8402342 -12.0115727)",Botica Farma Alvinos,ES04 - Ate - x - Carhuaricra Alvino Mary Luz - Entrar en Horacio Zevallos y de frente.
+"POINT (-76.8754093 -12.0183997)",Botica Farma Salud,ES04 - Ate/Santa Clara - x - x - 
+"POINT (-76.8900608 -12.026155)",Grupo Farma,IN02 - Ate/Santa Clara - x - Droguería Distribuidora Grupo Farma S.A.C. - Edificio blanco frente a Ferretería Esmeralda
+"POINT (-77.0285862 -11.9436766)",Botica J&A,NR04 - Comas/Belaunde - x - Paulino Medrano Esther Elizabeth - Cementerio Belaunde
+"POINT (-77.0662566 -11.8883004)",Botica Linka Plus,NR05 - PP - x - Quispe Marin Ryder - Escuela policías/auxiliar y entrar en puquial 
+"POINT (-77.1441265 -11.8322735)",Botica Junior,NR03 - Ventanilla/Pachacutec - x - Vasquez Quintana Junior Renato - 
+"POINT (-77.1273087 -11.8436848)",Botica Famy Salud,NR03 - Ventanilla - x - x - 
+"POINT (-77.1186977 -11.8300802)",Botica GissFarma,NR03 - Ventanilla - x - Bances Chapoñan Erika Aracely - Fachada Pro Farma
+"POINT (-77.1153839 -11.9747426)",Botica Señor de Mayo,NR03 - Callao/Ventanilla - x - 
+"POINT (-77.0800873 -11.9490388)",Botica NorFarma,NR01 - Los Olivos - x - Grupo Josmil SAC - Antes de Huandoy viniendo por Canta Callao
+"POINT (-77.0253582 -11.8912918)",Botica FarmaUnidas,NR04 - Carabayllo/Comas - x - Cuadros Oriondo Ruth Liliana - 
+"POINT (-77.0709865 -11.8561803)",Casa Cliente Perez Linares Maria Elita,NR05 - PP - x - Perez Linares Maria Elita - 
+"POINT (-77.0687875 -11.8547684)",Botica Super Farma,NR05 - PP - x - Tolentino Alegre Ines Jessica - 
+"POINT (-77.1409705 -11.8523001)",Botica InkaMedi,NR03 - Ventanilla/Pachacutec - x - Inversiones MasterFarm S.A.C. - Tiene nombre Botica Mi Salud
+"POINT (-77.1588334 -11.8346375)",Botica Sin Nombre,NR03 - Ventanilla/Pachacutec - x - Miranda Palpaso Darleen Odaliz - Fachada Botica FarmaMarket
+"POINT (-77.1006996 -11.8497858)",Botica NilFarma,NR05 - PP - x - x - 
+"POINT (-77.0946737 -11.8490722)",Botica FarmaNorte,NR05 - PP - x - Valenzuela Dominguez Kipler - 
+"POINT (-77.0699301 -11.8815648)",Botica Unidas Por Su Salud,NR05 - PP/Rosa Luz - x - Nuñez Segura Nelva - 
+"POINT (-77.060575 -11.9551803)",Botica Olicon,NR04 - Comas - x - Olivares Condor Daniel - 
+"POINT (-77.0499938 -11.9458294)",Botica Vida & Farma,NR04 - Comas - x - Medicamentos Vida Saludable S.A.C. - 
+"POINT (-77.0511804 -12.0674959)",Botica Cadena de Farmacias Salud Total,CE02 - Breña - x - Llallico Tovar Zeida Zulema - 
+"POINT (-77.0125059 -12.0621348)",Botica La Santísima Maria,CE02 - La Victoria - x - COMERCIAL LA SANTÍSIMA MARÍA S.R.L. - 
+"POINT (-76.9976453 -12.0410565)",Botica KamiFarma,CE02 - El Agustino - x - Garcilazo Pingo de Pizarro Miriam Magdelin - 
+"POINT (-76.9990792 -12.0306789)",Botica Cristo Rey,CE02 - El Agustino - x - x - 
+"POINT (-76.9858563 -12.044377)",Botica Farma Salud,DES01 - El Agustino - x - Fernandez Llamo Jose Elder - 
+"POINT (-77.0001736 -12.0451991)",Botica Pharmed,CE02 - El Agustino - x - Cuellar Macavilca Yhojan Eliseo - 
+"POINT (-77.049414 -12.0376598)",Botica Emanuel,CE02 - Cercado de Lima - x - Ticse Surichaqui Edwin - 
+"POINT (-76.9662863 -11.9114656)",Farmacia San Pedro,ES03 - SJL - x - Avila Medina Yesy
+"POINT (-76.9602719 -11.9258234)",Botica Roman,ES03 - SJL - x - x - 
+"POINT (-76.9485522 -11.9124401)",Botica Raul,ES03 - SJL - x - Silvestre Inocente Maria Lisett - Está dentro del grifo “Jicamarca”
+"POINT (-76.9964384 -11.9415035)",Botica K&J,ES03 - SJL - x - Flores Zavaleta Alfonso Francisco - 
+"POINT (-76.9963916 -11.9394745)",Botica Velasquez,ES03 - SJL - x - Velasquez Eusebio Tomas - 
+"POINT (-76.9684528 -11.9647411)",Botica RossFarma,ES03 - SJL - x - x - 
+"POINT (-76.9684692 -11.9646601)",Botica Sin Nombre,ES03 - SJL - x - Torres Chavarria Adrian - Fachada “Arats Farma”
+"POINT (-77.019179 -11.9767569)",Botica Biosana,ES03 - SJL - x - x - 
+"POINT (-77.002942 -11.9897482)",Botica Tu Farma,ES03 - SJL - x - Inversiones Rio Mantaro E.I.R.L. - 
+"POINT (-77.003968 -11.9881726)",Botica C Farma,ES03 - SJL - x - Inga Poma Janet Erica - 
+"POINT (-77.0098068 -11.9955767)",Policlinico Tucuman,ES03 - SJL - x - Tucuman E.I.R.L. - 
+"POINT (-77.0003449 -11.997486)",Botica R&G,ES03 - SJL - x - Rodriguez Gariza Elman - 
+"POINT (-77.0157137 -11.9963853)",Botica MV Farma,ES03 - SJL - x - Castañeda Teves Maria Julia - 
+"POINT (-76.991777 -12.0034208)",Botica Inka Salud,ES03 - SJL - x - x - 
+"POINT (-76.9971616 -12.0072418)",Botica Jamely,ES03 - SJL - x - Jhopac Multiservicios E.I.R.L. - 
+"POINT (-76.9908021 -12.0070445)",Farmacia Imperio,ES03 - SJL - x - Farma Imperio S.A.C. - 
+"POINT (-77.0046321 -12.026662)",Botica Sin Nombre,ES03 - SJL - x - Gonzales Espinoza Herlinda Hilda - 
