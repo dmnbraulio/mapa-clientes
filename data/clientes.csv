@@ -56,7 +56,7 @@ NR04,Comas/Independencia,x,x,Botica Monica,Entrar por Maestro Peruano hasta 22 A
 NR03,Ventanilla/SMP,x,x,Botica MediFarma,En la vuelta en U de Gambetta entrar pegado a la derecha una bajada estrecha,,-11.9370517,-77.1323992,NR03 - Ventanilla/SMP - x - x - En la vuelta en U de Gambetta entrar pegado a la derecha una bajada estrecha
 NR01,Los Olivos,x,x,Botica Medasalud,Se puede dejar por la panamericana también,,-11.9391562,-77.0724737,NR01 - Los Olivos - x - x - Se puede dejar por la panamericana también
 NR05,Ensenada/San Diego,x,x,Botica LyFarma,Pegado a la derecha voltear a la izquierda recién en Conquistadores,,-11.9324534,-77.0957056,NR05 - Ensenada/San Diego - x - x - Pegado a la derecha voltear a la izquierda recién en Conquistadores
-ES03,SJL,x,x,Consultorio Médico Camarena/Romero Coronación Nelson,,,-11.9380566,-76.9695275,ES03 - SJL - x - x - 
+SS03,SJL,x,x,Consultorio Médico Camarena/Romero Coronación Nelson,,,-11.9380566,-76.9695275,SS03 - SJL - x - x - 
 ES03,SJL,x,x,Botica MediFarma,Ir por Polonia y doblar en Las Flores,,-11.9728836,-77.0035399,ES03 - SJL - x - x - Ir por Polonia y doblar en Las Flores
 IN02,Ciudad Industrial/,x,x,Union Farma,,,-11.9183555,-76.8625216,IN02 - Ciudad Industrial/ - x - x - 
 ES03,Campoy,x,x,Botica AriFarma,,,-12.0148593,-76.9631651,ES03 - Campoy - x - x - 
@@ -174,3 +174,38 @@ ES03,SJL,x,x,Botica Inka Salud,,,-12.0034208,-76.991777,ES03 - SJL - x - x - 
 ES03,SJL,x,Jhopac Multiservicios E.I.R.L.,Botica Jamely,,,-12.0072418,-76.9971616,ES03 - SJL - x - Jhopac Multiservicios E.I.R.L. - 
 ES03,SJL,x,Farma Imperio S.A.C.,Farmacia Imperio,,,-12.0070445,-76.9908021,ES03 - SJL - x - Farma Imperio S.A.C. - 
 ES03,SJL,x,Gonzales Espinoza Herlinda Hilda,Botica Sin Nombre,,,-12.026662,-77.0046321,ES03 - SJL - x - Gonzales Espinoza Herlinda Hilda - 
+NR05,PP,c10430866643,Villanueva Martinez Mercedes Natali,Botica San Martin,Salida 31 Panamericana Sur a Norte,,-11.8569098,-77.0795335,NR05 - PP - c10430866643 - Villanueva Martinez Mercedes Natali - Salida 31 Panamericana Sur a Norte
+NR05,PP,06099973,Boticas Alpamayo Farma E.I.R.L.,Botica Alpamayo Farma,,,-11.8643087,-77.0740395,NR05 - PP - 06099973 - Boticas Alpamayo Farma E.I.R.L. - 
+NR05,PP,99105392,Guerrero Avila Melva,Botica Edy Farma,,,-11.8434957,-77.1004997,NR05 - PP - 99105392 - Guerrero Avila Melva - 
+NR05,Ancon,c10726739965,Marin Arroyo Luis Enrique,Botica Inversiones Marin Farma,Voltear izquierda peaje Ancon,,-11.7435926,-77.1475957,NR05 - Ancon - c10726739965 - Marin Arroyo Luis Enrique - Voltear izquierda peaje Ancon
+NR03,Ventanilla/Mi Peru,9901010309,Salinas Quiñones Jheni,Botica B&M,,,-11.8518606,-77.1218811,NR03 - Ventanilla/Mi Peru - 9901010309 - Salinas Quiñones Jheni - 
+NR03,Ventanilla/Callao,20611160,Farmacia Minkafarm Salud E.I.R.L.,Botica MinkaFarm Salud,x,,-11.9435907,-77.1134134,NR03 - Ventanilla/Callao - 20611160 - Farmacia Minkafarm Salud E.I.R.L.
+NR03,Callao,19906000,Neyra Neira Margarita Rosario,Botica La Esperanza,,,-11.9862377,-77.1158248,NR03 - Callao - 19906000 - Neyra Neira Margarita Rosario - 
+NR01,Los Olivos,c10761315931,Valdera Santisteban Liliana Maribel,Botica Sin Nombre,Botica Unifarma,,-11.9807619,-77.1057117,NR01 - Los Olivos - c10761315931 - Valdera Santisteban Liliana Maribel - Botica Unifarma
+NR01,Los Olivos,x,Sosa Espinoza Romy Martha,Botica Sin Nombre,Botica Leo’s Vital,,-11.9834458,-77.100388,NR01 - Los Olivos - x - Sosa Espinoza Romy Martha - Botica Leo’s Vital
+NR01,SMP,09907856,Cervantes Tadeo Deysi Guisela,Botica Master Botikas,,,-11.9944076,-77.1047849,NR01 - SMP - 09907856 - Cervantes Tadeo Deysi Guisela - 
+NR01,Callao,9901010508,Boticas PeruSalud/ Boticas Cega E.I.R.L.,Botica Perusalud,,,-12.0083317,-77.1023865,NR01 - Callao - 9901010508 - Boticas PeruSalud/ Boticas Cega E.I.R.L. - 
+NR03,Callao,10257669,Pajuelo Lopez Jaime Enrique,Farmacia Q. F. Bio & Salud,,,-12.0628225,-77.1090069,NR03 - Callao - 10257669 - Pajuelo Lopez Jaime Enrique - 
+NR01,SMP,0199043,Idrogo Vasquez Elmer,Farmacia Sagrado Corazón de Jesus,,,-11.9669315,-77.0899862,NR01 - SMP - 0199043 - Idrogo Vasquez Elmer- 
+NR04,SMP,04176365,Erolito Poma Noemi Graciela,Botica Nicol - Borrar,,,-11.9668378,-77.0951283,NR04 - SMP - 04176365 - Erolito Poma Noemi Graciela - 
+NR01,SMP,19824528,Cervantes Poma Maximo Alejandro,Botica Max Farma,Por un Mercado en la misma Avenida Tantamayo,,-11.9594377,-77.0970115,NR01 - SMP - 19824528 - Cervantes Poma Maximo Alejandro - Por un Mercado en la misma Avenida Tantamayo
+NR01,SMP,20608152,Corporación Mailena S.A.C.,Botica Mailena,x,,-11.9577845,-77.0887488,NR01 - SMP - 20608152 - Corporación Mailena S.A.C.
+NR01,Los Olivos,9910165,Choques Cervantes Carla,Botica Salud Es Vida,,,-11.9515224,-77.0800914,NR01 - Los Olivos - 9910165 - Choques Cervantes Carla - 
+NR01,Los Olivos,c20608474031,Corporación Maticorena S.A.C.,Distribuidora Dimat,,,-11.9475718,-77.086331,NR01 - Los Olivos - c20608474031 - Corporación Maticorena S.A.C. - 
+NR01,Los Olivos,x,x,Botica Internacional,,,-11.9482461,-77.0808171,NR01 - Los Olivos - x - x - 
+SU02,SJM,01440191,Vargas Paico Fiorela Estela,Botica Inka & Salud,,,-12.1514365,-76.9717581,SU02 - SJM - 01440191 - Vargas Paico Fiorela Estela - 
+SU02,SJM,206105591,Medical Representaciones Farma Sur S.A.C.,Botica Farma Sur C & F,,,-12.1574206,-76.9745136,SU02 - SJM - 206105591 - Medical Representaciones Farma Sur S.A.C. - 
+SU02,SJM/Pamplona,990102852,Rojas Pebe Nahomi Ruth,Botica Familia Y Salud,,,-12.1314745,-76.95466,SU02 - SJM/Pamplona - 990102852 - Rojas Pebe Nahomi Ruth - 
+SU02,SJM/Pamplona,x,x,Botica Medina,,,-12.1315369,-76.9547814,SU02 - SJM/Pamplona - x - x - 
+SU02,SJM/Pamplona Baja,20613204,SGS,Botica SGS Farma,Farma E.I.R.L. - ,,-12.1413375,-76.9697079,SU02 - SJM/Pamplona Baja - 20613204 - SGS-Farma E.I.R.L. - 
+SU02,SJM/Pamplona Medio,01440101,Rojas Pillaca de Cabana María Elena,Botica Años,,,-12.1316985,-76.9588356,SU02 - SJM/Pamplona Medio - 01440101 - Rojas Pillaca de Cabana María Elena - 
+SU02,SJM,06103021,Corporación Boticas Remedic Farma S.A.C.,Botica Remedic Farma,,,-12.1513466,-76.9702133,SU02 - SJM - 06103021 - Corporación Boticas Remedic Farma S.A.C. - 
+SU02,SJM,01330028,Huaman Samanez Aydee Gladys,Botica Glas Farma,,,-12.1887072,-76.9760654,SU02 - SJM - 01330028 - Huaman Samanez Aydee Gladys - 
+SU02,VMT,x,x,Botica Farma Ruiz,,,-12.1773544,-76.9475493,SU02 - VMT - x - x - 
+SU02,VMT,06020029,Inversiones Beym SAC,Botica Nicol Farma,,,-12.1959052,-76.9225479,SU02 - VMT - 06020029 - Inversiones Beym SAC - 
+SU02,VMT,01430225,More Durand Elia Marisol,Botica Ely,,,-12.1901381,-76.9227668,SU02 - VMT - 01430225 - More Durand Elia Marisol - 
+SU02,VES,01280069,Estrada Pita Luis Fernando,Botica Isabella,,,-12.2185965,-76.932416,SU02 - VES - 01280069 - Estrada Pita Luis Fernando - 
+YS05,Lurin,01190043,Borja Avalos Ketty Edtih,Botica El Pueblo,,,-12.2973911,-76.8505402,YS05 - Lurin - 01190043 - Borja Avalos Ketty Edtih - 
+SU03,Chorrillos,01080080,Farmacenter Liz E.I.R.L.,Botica Más Salud,,,-12.1877831,-77.0080288,SU03 - Chorrillos - 01080080 - Farmacenter Liz E.I.R.L. - 
+SU03,Surco,x,x,Botica Farmaceutical SDC,,,-12.165122,-76.9927227,SU03 - Surco - x - x - 
+SU03,Surco,c10413258443,Díaz Silva Elva Carina,Botica Liliana,,,-12.1526693,-76.9861829,SU03 - Surco - c10413258443 - Díaz Silva Elva Carina - 
