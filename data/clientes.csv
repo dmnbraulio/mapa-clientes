@@ -90,7 +90,7 @@ NR04,Carabayllo,x,Lachira Fabian Lizbeth Karina,Botica Liz Farma,Universitaria h
 NR04,Carabayllo/Torre Blanca,x,Luque Anaya Nacy Soledad,Botica J&A Farma,Vuelta en U en el Óvalo Torre Blanca,,-11.8511906,-77.0025598,NR04 - Carabayllo/Torre Blanca - x - Luque Anaya Nacy Soledad - Vuelta en U en el Óvalo Torre Blanca
 NR05,Shangri La/Ensenada,x,Medico Garcia Nifa Sara,Botica Tessa,Por Cementerio,,-11.917333,-77.0763812,NR05 - Shangri La/Ensenada - x - Medico Garcia Nifa Sara - Por Cementerio 
 NR05,Shangri La/Ensenada,x,Atequipa Llacchua,Botica Fe y Confianza,Bacilia - ,,-11.924004,-77.0832801,NR05 - Shangri La/Ensenada - x - Atequipa Llacchua - Bacilia - 
-NR05,Ensenada,x,Inversiones Hanny EIRL,Botica Cayetano Heredia TFS,Cerro Ensenada,,-11.9333755,-77.0937281,NR05 - Ensenada - x - Inversiones Hanny EIRL - Cerro Ensenada
+NR05,Ensenada,x,Inversiones Hanny EIRL,Botica Cayetano Heredia TFS,Cerro Ensenada,,-11.9324256,-77.0939803,NR05 - Ensenada - x - Inversiones Hanny EIRL - Cerro Ensenada
 NR03,Callao,x,Perez Diaz Eliana Lizet,Farmacia Diaz,,,-12.0093763,-77.0973719,NR03 - Callao - x - Perez Diaz Eliana Lizet - 
 NR01,Los Olivos/Canta Callao,x,x,Botica Más Farma Central,Se factura con otro nombre,,-11.9520569,-77.089728,NR01 - Los Olivos/Canta Callao - x - x - Se factura con otro nombre
 NR01,Los Olivos/San Diego,x,JCL Business Corporation SAC,Botica BCFarma,Virgen de San Diego,,-11.9452109,-77.0878856,NR01 - Los Olivos/San Diego - x - JCL Business Corporation SAC - Virgen de San Diego
@@ -205,7 +205,18 @@ SU02,VMT,x,x,Botica Farma Ruiz,,,-12.1773544,-76.9475493,SU02 - VMT - x - x - 
 SU02,VMT,06020029,Inversiones Beym SAC,Botica Nicol Farma,,,-12.1959052,-76.9225479,SU02 - VMT - 06020029 - Inversiones Beym SAC - 
 SU02,VMT,01430225,More Durand Elia Marisol,Botica Ely,,,-12.1901381,-76.9227668,SU02 - VMT - 01430225 - More Durand Elia Marisol - 
 SU02,VES,01280069,Estrada Pita Luis Fernando,Botica Isabella,,,-12.2185965,-76.932416,SU02 - VES - 01280069 - Estrada Pita Luis Fernando - 
-SU05,Lurin,01190043,Borja Avalos Ketty Edtih,Botica El Pueblo,,,-12.2973911,-76.8505402,YS05 - Lurin - 01190043 - Borja Avalos Ketty Edtih - 
+SU05,Lurin,01190043,Borja Avalos Ketty Edtih,Botica El Pueblo,,,-12.2973911,-76.8505402,SU05 - Lurin - 01190043 - Borja Avalos Ketty Edtih - 
 SU03,Chorrillos,01080080,Farmacenter Liz E.I.R.L.,Botica Más Salud,,,-12.1877831,-77.0080288,SU03 - Chorrillos - 01080080 - Farmacenter Liz E.I.R.L. - 
 SU03,Surco,x,x,Botica Farmaceutical SDC,,,-12.165122,-76.9927227,SU03 - Surco - x - x - 
 SU03,Surco,c10413258443,Díaz Silva Elva Carina,Botica Liliana,,,-12.1526693,-76.9861829,SU03 - Surco - c10413258443 - Díaz Silva Elva Carina - 
+NR04,Comas/Los Olivos,01992685,Acuña Cabrera de Torres Otolia Libna,Botica Pharma Salud,,,-11.9500912,-77.0626472,NR04 - Comas/Los Olivos - 01992685 - Acuña Cabrera de Torres Otolia Libna - 
+NR04,Comas,x,x,Botica Belen,,,-11.9554108,-77.0474601,NR04 - Comas - x - x - 
+NR04,Carabayllo,9910534925,Uscamayta yana ursula,Botica Dalia,,,-11.8742051,-77.0155838,NR04 - Carabayllo - 9910534925 - Uscamayta yana ursula -  
+NR04,Carabayllo,x,x,Botica Victoria,,,-11.8805368,-77.0215029,NR04 - Carabayllo - x - x - 
+NR04,Carabayllo,x,x,Botica Max Farma,,,-11.8578858,-77.042708,NR04 - Carabayllo - x - x - 
+NR04,Carabayllo,x,x,Botica Andre,,,-11.8578719,-77.0427274,NR04 - Carabayllo - x - x - 
+NR04,Carabayllo,x,x,Botica Lam,,,-11.824204,-77.0528178,NR04 - Carabayllo - x - x - 
+NR04,Carabayllo,x,x,Botica Vasquez,,,-11.8135567,-77.0462573,NR04 - Carabayllo - x - x - 
+NR04,PP,10407727,Garcia Cordova Diney,Botica Haylli,,,-11.8433136,-77.0851771,NR04 - PP - 10407727 - Garcia Cordova Diney - 
+NR03,Ventanilla,x,x,Botica Multisalud,,,-11.8408455,-77.122789,NR03 - Ventanilla - x - x - 
+NR03,Ventanilla,x,x,Botica Miguel Angel,Fachada Botica Salud Pharma,,-11.8300588,-77.1187321,NR03 - Ventanilla - x - x - Fachada Botica Salud Pharma
