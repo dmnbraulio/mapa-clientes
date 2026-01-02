@@ -1,145 +1,213 @@
 # app.py
-# ---------------------------------
-# Mapa con actualización por zonas y filtro estable de boticas
-# ---------------------------------
+# --------------------------------------------------
+# Mapa de Distribución - LAFARMED
+# --------------------------------------------------
 
 import streamlit as st
 import pandas as pd
 import folium
 from streamlit_folium import st_folium
+from reportlab.platypus import SimpleDocTemplate, Table, TableStyle
+from reportlab.lib import colors
+from reportlab.lib.pagesizes import A4, landscape
+import tempfile
 
-# ---------------------------------
-# 1) Configuración inicial
-# ---------------------------------
-st.set_page_config(page_title="Mapa de Distribución - LAFARMED", layout="wide")
+# --------------------------------------------------
+# Configuración general
+# --------------------------------------------------
+st.set_page_config(
+    page_title="Mapa de Distribución - LAFARMED",
+    layout="wide"
+)
+
 st.title("🗺️ Mapa de Distribución de Clientes - LAFARMED")
 
-# ---------------------------------
-# 2) Cargar datos
-# ---------------------------------
+# --------------------------------------------------
+# Cargar datos
+# --------------------------------------------------
 @st.cache_data
 def cargar_datos():
-    path_csv = "data/clientes.csv"
-    df = pd.read_csv(path_csv)
+    df = pd.read_csv("data/clientes.csv")
     df = df.dropna(subset=["Lat", "Lng"])
+    df = df.reset_index(drop=True)
+    df["_uid"] = df.index.astype(str)  # ID único estable
     return df
 
 df = cargar_datos()
 
-# ---------------------------------
-# 3) Panel lateral (filtros)
-# ---------------------------------
+# --------------------------------------------------
+# Sidebar - selección de zonas
+# --------------------------------------------------
 st.sidebar.header("🔍 Filtros")
 
-# 🔸 Selección de zonas (múltiple)
-zonas_disponibles = sorted(df["CodigoZona"].dropna().unique())
+zonas = sorted(df["CodigoZona"].unique())
+
 zonas_sel = st.sidebar.multiselect(
-    "Selecciona uno o varios Códigos de Zona:",
-    options=zonas_disponibles,
-    default=[]
+    "Selecciona códigos de zona:",
+    zonas
 )
 
-# 🔹 Filtrado inicial por zonas seleccionadas
-if len(zonas_sel) > 0:
-    df_zonas = df[df["CodigoZona"].isin(zonas_sel)]
-else:
-    df_zonas = pd.DataFrame()
+df_zonas = df[df["CodigoZona"].isin(zonas_sel)] if zonas_sel else pd.DataFrame()
 
-# 🔹 Boticas dentro de las zonas seleccionadas
+# 🔹 ORDEN FIJO
 if not df_zonas.empty:
-    boticas_disponibles = sorted(df_zonas["Botica"].dropna().unique())
-else:
-    boticas_disponibles = []
+    df_zonas = df_zonas.sort_values(
+        by=["CodigoZona", "Botica"],
+        ascending=[True, True]
+    ).reset_index(drop=True)
 
-boticas_sel = st.sidebar.multiselect(
-    "Selecciona una o varias Boticas (opcional):",
-    options=boticas_disponibles,
-    default=[]
-)
+# --------------------------------------------------
+# Session State
+# --------------------------------------------------
+if "checks" not in st.session_state:
+    st.session_state.checks = {}
 
-# ---------------------------------
-# 4) Control del estado del botón
-# ---------------------------------
-# Creamos una variable persistente para saber si el filtro está activo
-if "filtrar_boticas" not in st.session_state:
-    st.session_state.filtrar_boticas = False
-if "boticas_filtradas" not in st.session_state:
-    st.session_state.boticas_filtradas = []
+if "aplicar_filtro" not in st.session_state:
+    st.session_state.aplicar_filtro = False
 
-# Cuando se presiona el botón, guardamos las boticas seleccionadas
-if st.sidebar.button("🔍 Aplicar filtro de Boticas"):
-    st.session_state.filtrar_boticas = True
-    st.session_state.boticas_filtradas = boticas_sel
+for _, r in df_zonas.iterrows():
+    if r["_uid"] not in st.session_state.checks:
+        st.session_state.checks[r["_uid"]] = False
 
-# Si el usuario limpia la selección de boticas, desactivamos el filtro
-if len(boticas_sel) == 0 and st.session_state.filtrar_boticas:
-    st.session_state.filtrar_boticas = False
-    st.session_state.boticas_filtradas = []
-
-# ---------------------------------
-# 5) Aplicar filtro según estado
-# ---------------------------------
+# --------------------------------------------------
+# TABLA + CHECKLIST
+# --------------------------------------------------
 if not df_zonas.empty:
-    if st.session_state.filtrar_boticas and len(st.session_state.boticas_filtradas) > 0:
-        df_filtrado = df_zonas[df_zonas["Botica"].isin(st.session_state.boticas_filtradas)]
-        st.sidebar.success(f"{len(df_filtrado)} boticas filtradas dentro de las zonas seleccionadas.")
-    else:
-        df_filtrado = df_zonas
-else:
-    df_filtrado = pd.DataFrame()
-    st.info("Selecciona al menos una zona para mostrar el mapa.")
 
-# ---------------------------------
-# 6) Mostrar tabla y mapa
-# ---------------------------------
+    st.subheader("📋 Selección de boticas")
+
+    encabezados = st.columns([0.5, 1, 2, 2, 3])
+
+    encabezados[0].markdown("**✔**")
+    encabezados[1].markdown("**Cod Zona**")
+    encabezados[2].markdown("**Zona**")
+    encabezados[3].markdown("**Botica**")
+    encabezados[4].markdown("**Cliente**")
+
+    # Línea separadora del encabezado (ultra fina)
+    st.markdown(
+        "<hr style='margin:4px 0; border:0; border-top:1px solid #cfcfcf;'>",
+        unsafe_allow_html=True
+    )
+
+    for _, r in df_zonas.iterrows():
+
+        cols = st.columns([0.5, 1, 2, 2, 3])
+
+        st.session_state.checks[r["_uid"]] = cols[0].checkbox(
+            "",
+            value=st.session_state.checks[r["_uid"]],
+            key=f"chk_{r['_uid']}"
+        )
+
+        cols[1].write(r["CodigoZona"])
+        cols[2].write(r["ZonaNombre"])
+        cols[3].write(r["Botica"])
+        cols[4].write(r["NombreCliente"])
+
+        # 🔹 LÍNEA DIVISORIA ULTRA DELGADA (NO aumenta altura)
+        st.markdown(
+            "<hr style='margin:2px 0; border:0; border-top:1px solid #e6e6e6;'>",
+            unsafe_allow_html=True
+        )
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        if st.button("🔍 Aplicar filtro al mapa"):
+            st.session_state.aplicar_filtro = True
+
+    with col2:
+        generar_pdf = st.button("📄 Generar PDF")
+
+else:
+    st.info("Selecciona al menos una zona.")
+
+# --------------------------------------------------
+# Aplicar selección
+# --------------------------------------------------
+if st.session_state.aplicar_filtro:
+    seleccionados = [
+        k for k, v in st.session_state.checks.items() if v
+    ]
+    df_filtrado = df_zonas[df_zonas["_uid"].isin(seleccionados)]
+else:
+    df_filtrado = df_zonas
+
+# --------------------------------------------------
+# MAPA
+# --------------------------------------------------
 if not df_filtrado.empty:
-    st.subheader("📋 Datos filtrados")
-    st.dataframe(df_filtrado, use_container_width=True)
 
-    st.subheader("🗺️ Mapa de clientes")
+    st.subheader("🗺️ Mapa")
 
-    # Calcular centro del mapa
-    center_lat = df_filtrado["Lat"].mean()
-    center_lng = df_filtrado["Lng"].mean()
-    m = folium.Map(location=[center_lat, center_lng], zoom_start=12)
+    m = folium.Map(
+        location=[
+            df_filtrado["Lat"].mean(),
+            df_filtrado["Lng"].mean()
+        ],
+        zoom_start=12
+    )
 
-    color_map = {
-        "SU01": "red",
-        "SU02": "green",
-        "SU03": "blue",
-        "SU04": "purple",
-        "SU05": "orange"
-    }
-
-    for _, row in df_filtrado.iterrows():
-        color = color_map.get(row["CodigoZona"], "gray")
-
-        # 🔹 Crear enlace de Google Maps directo al punto (NUEVO)
-        google_maps_url = f"https://www.google.com/maps?q={row['Lat']},{row['Lng']}"
-
-        # 🔹 Popup con enlace clicable (NUEVO)
-        popup_html = f"""
-        <b>Botica:</b> {row['Botica']}<br>
-        <b>Zona:</b> {row['ZonaNombre']} ({row['CodigoZona']})<br>
-        <b>Cliente:</b> {row['CodigoCliente']} - {row['NombreCliente']}<br>
-        <b>Referencias:</b> {row['Referencias']}<br>
-        <b>Dirección:</b> {row['Direccion']}<br>
-        <br>
-        <a href="{google_maps_url}" target="_blank" 
-        style="background-color:#4285F4;color:white;padding:5px 10px;
-                border-radius:4px;text-decoration:none;">
-        🧭 Ver en Google Maps
-        </a>
-        """
+    for _, r in df_filtrado.iterrows():
+        link = f"https://www.google.com/maps?q={r['Lat']},{r['Lng']}"
 
         folium.Marker(
-            location=[row["Lat"], row["Lng"]],
-            popup=folium.Popup(popup_html, max_width=300),
-            tooltip=row["Botica"],
-            icon=folium.Icon(color=color, icon="info-sign")
+            [r["Lat"], r["Lng"]],
+            popup=f"""
+            <b>Zona:</b> {r['CodigoZona']} - {r['ZonaNombre']}<br>
+            <b>Botica:</b> {r['Botica']}<br>
+            <b>Cliente:</b> {r['NombreCliente']}<br><br>
+            <a href="{link}" target="_blank">Abrir en Google Maps</a>
+            """
         ).add_to(m)
 
+    st_folium(m, height=500)
 
-    st_folium(m, width=1400, height=600)
-else:
-    st.warning("No hay datos para mostrar. Selecciona al menos una zona.")
+# --------------------------------------------------
+# PDF
+# --------------------------------------------------
+if "generar_pdf" in locals() and generar_pdf and not df_filtrado.empty:
+
+    tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
+
+    doc = SimpleDocTemplate(
+        tmp.name,
+        pagesize=landscape(A4)
+    )
+
+    data = [[
+        "Cod Zona",
+        "Nombre Zona",
+        "Nombre Cliente",
+        "Nombre Botica",
+        "Google Maps"
+    ]]
+
+    for _, r in df_filtrado.iterrows():
+        link = f"https://www.google.com/maps?q={r['Lat']},{r['Lng']}"
+        data.append([
+            r["CodigoZona"],
+            r["ZonaNombre"],
+            r["NombreCliente"],
+            r["Botica"],
+            link
+        ])
+
+    table = Table(data, repeatRows=1)
+    table.setStyle(TableStyle([
+        ("BACKGROUND", (0, 0), (-1, 0), colors.lightgrey),
+        ("GRID", (0, 0), (-1, -1), 0.5, colors.grey),
+        ("FONTSIZE", (0, 0), (-1, -1), 9),
+        ("ALIGN", (0, 0), (-1, -1), "LEFT")
+    ]))
+
+    doc.build([table])
+
+    with open(tmp.name, "rb") as f:
+        st.download_button(
+            "⬇️ Descargar PDF",
+            f,
+            file_name="distribucion_boticas.pdf",
+            mime="application/pdf"
+        )

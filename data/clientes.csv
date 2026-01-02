@@ -45,7 +45,7 @@ NR04,Comas,x,x,Botica San Antonio,Avenida Los Incas pasando Universitaria/Frente
 AGNR04,Zapallal/Puente Piedra/Carabayllo,x,Agencia Tunesa,Agencia Tunesa,Panamericana pasando Mercado 3 Regiones/Pasando entrada a cementerio,,-11.8420747,-77.1022582,AGNR04 - Zapallal/Puente Piedra/Carabayllo - x - Agencia Tunesa - Panamericana pasando Mercado 3 Regiones/Pasando entrada a cementerio
 NR03,Ventanilla/Pachacutec,x,x,Botica Hogar Pharma,Ovalo Labarthe/Por Av. 200 entrar en Av. Los Topógrafos,,-11.8476934,-77.1336131,NR03 - Ventanilla/Pachacutec - x - x - Ovalo Labarthe/Por Av. 200 entrar en Av. Los Topógrafos
 NR01,San Martín de Porres/Callao,x,x,Botica Señor de Muruhuay/KyM,Auxilliar Canta Callao antes de llegar a Izaguirre,,-11.9868135,-77.103448,NR01 - San Martín de Porres/Callao - x - x - Auxilliar Canta Callao antes de llegar a Izaguirre
-NR04,Comas,x,x,Bóricas Edith,Retablo con Micaela/ Pasando esquina del lado dirección Trapiche,,-11.928684,-77.0564261,NR04 - Comas - x - x - Retablo con Micaela/ Pasando esquina del lado dirección Trapiche
+NR04,Comas,x,x,Botica Edith,Retablo con Micaela/ Pasando esquina del lado dirección Trapiche,,-11.928684,-77.0564261,NR04 - Comas - x - x - Retablo con Micaela/ Pasando esquina del lado dirección Trapiche
 NR04,Comas/Collique,x,x,Botica F y C,Antes de llegar a tráfico de las combis de abajo hacia arriba,,-11.9152151,-77.0307213,NR04 - Comas/Collique - x - x - Antes de llegar a tráfico de las combis de abajo hacia arriba
 IN02,San Miguel,x,x,Distribuidores P y G,Todo Elmer Faucett,,-12.066865,-77.0993368,IN02 - San Miguel - x - x - Todo Elmer Faucett
 NR05,Ancon/Villa Estela,x,x,Farmacia Farmamed,Después de dar vuelta en U por la panamericana entrar a la curva derecha y entrar calle 29,,-11.8141818,-77.1318255,NR05 - Ancon/Villa Estela - x - x - Después de dar vuelta en U por la panamericana entrar a la curva derecha y entrar calle 29
@@ -56,7 +56,7 @@ NR04,Comas/Independencia,x,x,Botica Monica,Entrar por Maestro Peruano hasta 22 A
 NR03,Ventanilla/SMP,x,x,Botica MediFarma,En la vuelta en U de Gambetta entrar pegado a la derecha una bajada estrecha,,-11.9370517,-77.1323992,NR03 - Ventanilla/SMP - x - x - En la vuelta en U de Gambetta entrar pegado a la derecha una bajada estrecha
 NR01,Los Olivos,x,x,Botica Medasalud,Se puede dejar por la panamericana también,,-11.9391562,-77.0724737,NR01 - Los Olivos - x - x - Se puede dejar por la panamericana también
 NR05,Ensenada/San Diego,x,x,Botica LyFarma,Pegado a la derecha voltear a la izquierda recién en Conquistadores,,-11.9324534,-77.0957056,NR05 - Ensenada/San Diego - x - x - Pegado a la derecha voltear a la izquierda recién en Conquistadores
-SS03,SJL,x,x,Consultorio Médico Camarena/Romero Coronación Nelson,,,-11.9380566,-76.9695275,SS03 - SJL - x - x - 
+ES03,SJL,x,x,Consultorio Medico Camarena/Romero Coronacion Nelson,,,-11.9380566,-76.9695275,ES03 - SJL - x - x - 
 ES03,SJL,x,x,Botica MediFarma,Ir por Polonia y doblar en Las Flores,,-11.9728836,-77.0035399,ES03 - SJL - x - x - Ir por Polonia y doblar en Las Flores
 IN02,Ciudad Industrial/,x,x,Union Farma,,,-11.9183555,-76.8625216,IN02 - Ciudad Industrial/ - x - x - 
 ES03,Campoy,x,x,Botica AriFarma,,,-12.0148593,-76.9631651,ES03 - Campoy - x - x - 
@@ -70,7 +70,7 @@ NR05,Zapallal,x,x,Botica Thiago,,,-11.8434754,-77.1097674,NR05 - Zapallal - x - 
 NR05,Puente Piedra,x,x,Botica San Pedro,,,-11.8632699,-77.079227,NR05 - Puente Piedra - x - x - 
 IN02,La Victoria/Barrios Altos,x,Distribuidora Charo EIRL,Distribuidora Charo,Tráfico en Huanta/Alquilar cochera,,-12.0535648,-77.0232859,IN02 - La Victoria/Barrios Altos - x - Distribuidora Charo EIRL - Tráfico en Huanta/Alquilar cochera
 CE02,Breña,x,Rurush Cacha Marianella,Botica Maryuri,,,-12.063602,-77.051658,CE02 - Breña - x - Rurush Cacha Marianella - 
-IN02,La Victoria/Barrios Altos,x,Corporación Ganajur SAC,Corporación Ganajur,Entrar por Linea Amarilla Zarumilla,,-12.0456544,-77.0142458,IN02 - La Victoria/Barrios Altos - x - Corporación Ganajur SAC - Entrar por Linea Amarilla Zarumilla
+IN02,La Victoria/Barrios Altos,x,Corporacion Ganajur SAC,Corporacion Ganajur,Entrar por Linea Amarilla Zarumilla,,-12.0456544,-77.0142458,IN02 - La Victoria/Barrios Altos - x - Corporacion Ganajur SAC - Entrar por Linea Amarilla Zarumilla
 IN02,Callao/CDL/SMP,x,Inversiones Bienestar Zeng SAC,Inversiones Bienestar Zeng,Cruce Avenida Lima con 12 de Octubre,,-12.0284015,-77.0878277,IN02 - Callao/CDL/SMP - x - Inversiones Bienestar Zeng SAC - Cruce Avenida Lima con 12 de Octubre
 CE02,El Agustino,x,x,Botica Los Claveles,Cruce de Los Claveles con Riva Agüero,,-12.0467349,-76.9998675,CE02 - El Agustino - x - x - Cruce de Los Claveles con Riva Agüero
 CE02,La Victoria/Gamarra,x,x,Botica 1,Por Parinacochas luego jr Italia,,-12.0693577,-77.0127824,CE02 - La Victoria/Gamarra - x - x - Por Parinacochas luego jr Italia
@@ -90,16 +90,16 @@ NR04,Carabayllo,x,Lachira Fabian Lizbeth Karina,Botica Liz Farma,Universitaria h
 NR04,Carabayllo/Torre Blanca,x,Luque Anaya Nacy Soledad,Botica J&A Farma,Vuelta en U en el Óvalo Torre Blanca,,-11.8511906,-77.0025598,NR04 - Carabayllo/Torre Blanca - x - Luque Anaya Nacy Soledad - Vuelta en U en el Óvalo Torre Blanca
 NR05,Shangri La/Ensenada,x,Medico Garcia Nifa Sara,Botica Tessa,Por Cementerio,,-11.917333,-77.0763812,NR05 - Shangri La/Ensenada - x - Medico Garcia Nifa Sara - Por Cementerio 
 NR05,Shangri La/Ensenada,x,Atequipa Llacchua,Botica Fe y Confianza,Bacilia - ,,-11.924004,-77.0832801,NR05 - Shangri La/Ensenada - x - Atequipa Llacchua - Bacilia - 
-NR05,Ensenada,x,Inversiones Hanny EIRL,Botica Cayetano Heredia TFS,Cerro Ensenada,,-11.9324256,-77.0939803,NR05 - Ensenada - x - Inversiones Hanny EIRL - Cerro Ensenada
+NR05,Ensenada,x,Inversiones Hanny EIRL,Botica Cayetano Heredia TFS,Cerro Ensenada,,-11.9341944,-77.0935954,NR05 - Ensenada - x - Inversiones Hanny EIRL - Cerro Ensenada
 NR03,Callao,x,Perez Diaz Eliana Lizet,Farmacia Diaz,,,-12.0093763,-77.0973719,NR03 - Callao - x - Perez Diaz Eliana Lizet - 
-NR01,Los Olivos/Canta Callao,x,x,Botica Más Farma Central,Se factura con otro nombre,,-11.9520569,-77.089728,NR01 - Los Olivos/Canta Callao - x - x - Se factura con otro nombre
+NR01,Los Olivos/Canta Callao,x,x,Botica Mas Farma Central,Se factura con otro nombre,,-11.9520569,-77.089728,NR01 - Los Olivos/Canta Callao - x - x - Se factura con otro nombre
 NR01,Los Olivos/San Diego,x,JCL Business Corporation SAC,Botica BCFarma,Virgen de San Diego,,-11.9452109,-77.0878856,NR01 - Los Olivos/San Diego - x - JCL Business Corporation SAC - Virgen de San Diego
 NR01,Los Olivos/San Diego,x,Cordova Azaña Maribel Edilberta,Botica Azaña,Puente Ensenada dirección BCP,,-11.9365314,-77.0818167,NR01 - Los Olivos/San Diego - x - Cordova Azaña Maribel Edilberta - Puente Ensenada dirección BCP
 NR05,Chillon/Puente Piedra,x,Yulkyzo SAC,Botica NeoFarma,Lado derecho río Chillon,,-11.9265478,-77.0785398,NR05 - Chillon/Puente Piedra - x - Yulkyzo SAC - Lado derecho río Chillon
 NR05,Puente Piedra,x,Castillo Quijano Nelhuar Clinton,Botica CamoFarma,Pasando Mercado Huamantanga entrar a auxiliar,,-11.8586692,-77.0817018,NR05 - Puente Piedra - x - Castillo Quijano Nelhuar Clinton - Pasando Mercado Huamantanga entrar a auxiliar
 NR03,Ventanilla,x,Guarnizo Barrazueta Yobany,Botica Virgen del Carmen,x,,-11.8526285,-77.1405416,NR03 - Ventanilla - x - Guarnizo Barrazueta Yobany
 NR03,Callao/SMP,x,Silva Torres Isabel Susan,Botica Fabricio S&A,,,-11.9838155,-77.1161102,NR03 - Callao/SMP - x - Silva Torres Isabel Susan - 
-NR0,Callao/SMP,x,Inversiones Semmas EIRL,Botica Los Angeles,Al costado de GoodPharma,,-11.9733855,-77.1029524,NR0 - Callao/SMP - x - Inversiones Semmas EIRL - Al costado de GoodPharma
+NR01,Callao/SMP,x,Inversiones Semmas EIRL,Botica Los Angeles,Al costado de GoodPharma,,-11.9733855,-77.1029524,NR01 - Callao/SMP - x - Inversiones Semmas EIRL - Al costado de GoodPharma
 NR03,Callao/SMP,x,Boticas M&S SAC,Botica M&S,x,,-12.0233297,-77.0982114,NR03 - Callao/SMP - x - Boticas M&S SAC
 NR03,Callao,x,Fernandez Ore Maximo Rene,Botica de A Sol Gimena/Jimena,,,-12.0401095,-77.0901608,NR03 - Callao - x - Fernandez Ore Maximo Rene - 
 NR01,Zarumilla,x,,Botica,x,,-12.0346296,-77.0472402,NR01 - Zarumilla - x - 
@@ -117,7 +117,7 @@ NR04,Carabayllo,x,x,Botica El Amigo,,,-11.8428032,-77.0769151,NR04 - Carabayllo-
 NR04,Carabayllo,x,Albujar Fernandez Evelyn Carol,Botica Sin Nombre,x,,-11.8549563,-77.0362514,NR04 - Carabayllo - x - Albujar Fernandez Evelyn Carol
 NR05,Puente Piedra/Establo,x,x,Botica Vida y Farma,,,-11.8901729,-77.0687074,NR05 - Puente Piedra/Establo - x - x - 
 NR03,Callao,x,x,Botica Cruz Roja 3,x,,-12.0448593,-77.1096071,NR03 - Callao
-NR04,Carabayllo,x,Tejada Rodriguez José Luis,Botica Sin Nombre,x,,-11.8754365,-77.0173081,NR04 - Carabayllo - x - Tejada Rodriguez José Luis
+NR04,Carabayllo,x,Tejada Rodriguez Jose Luis,Botica Sin Nombre,x,,-11.8754365,-77.0173081,NR04 - Carabayllo - x - Tejada Rodriguez Jose Luis
 NR04,Carabayllo,x,Ramirez Quintana Deysi Esmeralda,Botica El Paraíso/MilanFarma,,,-11.8641183,-77.0191468,NR04 - Carabayllo - x - Ramirez Quintana Deysi Esmeralda - 
 NR05,Pro Lima,x,Cama Flores Marisol Xiomara,Botica Sin Nombre,,,-11.9229036,-77.0776226,NR05 - Pro Lima - x - Cama Flores Marisol Xiomara - 
 NR01,SMP,x,Consorcio Ramms SRL,Botica Nueva Salud,,,-11.9634784,-77.1019344,NR01 - SMP - x - Consorcio Ramms SRL - 
@@ -127,8 +127,8 @@ ES04,Chosica,x,Mendoza Sanchez Henry Raul,Botica Farmenza,,,-11.9351366,-76.7160
 ES04,Lurigancho/Jicamarca,x,Lozano Ricaldi Jessica Yudith,Botica Sanidad,,,-11.9729721,-76.9398943,ES04 - Lurigancho/Jicamarca - x - Lozano Ricaldi Jessica Yudith - 
 ES04,Lurigancho/Jicamarca,x,Bonifacio Najera Edwer Victor,Botica Primero mi salud,,,-11.9776921,-76.9417849,ES04 - Lurigancho/Jicamarca - x - Bonifacio Najera Edwer Victor - 
 ES04,Lurigancho/Cajamarquilla,x,Antiporta Carhuamaca Erica Maricela,Botica J & M Farma,,,-11.9801523,-76.9066435,ES04 - Lurigancho/Cajamarquilla - x - Antiporta Carhuamaca Erica Maricela - 
-IN02,SJL,x,x,Empresa Corporación,,,-12.0242405,-76.9910372,IN02 - SJL - x - x - 
-NR05,Ancon,x,Policlinico Corazón Andino,Botica Corazón Andino,Doblar izquierda antes de peaje,,-11.7357143,-77.1446861,NR05 - Ancon - x - Policlinico Corazón Andino - Doblar izquierda antes de peaje
+IN02,SJL,x,x,Empresa Corporacion,,,-12.0242405,-76.9910372,IN02 - SJL - x - x - 
+NR05,Ancon,x,Policlinico Corazon Andino,Botica Corazon Andino,Doblar izquierda antes de peaje,,-11.7357143,-77.1446861,NR05 - Ancon - x - Policlinico Corazon Andino - Doblar izquierda antes de peaje
 ES03,SJL,x,Zamora Gutierrez Vilma,Botica Sana Sana,Cerro de SJL,,-11.9225362,-76.9606997,ES03 - SJL - x - Zamora Gutierrez Vilma - Cerro de SJL
 ES04,Ate,x,Carhuaricra Alvino Mary Luz,Botica Farma Alvinos,Entrar en Horacio Zevallos y de frente.,,-12.0115727,-76.8402342,ES04 - Ate - x - Carhuaricra Alvino Mary Luz - Entrar en Horacio Zevallos y de frente.
 ES04,Ate/Santa Clara,x,x,Botica Farma Salud,,,-12.0183997,-76.8754093,ES04 - Ate/Santa Clara - x - x - 
@@ -151,7 +151,7 @@ NR05,PP/Rosa Luz,x,Nuñez Segura Nelva,Botica Unidas Por Su Salud,,,-11.8815648,
 NR04,Comas,x,Olivares Condor Daniel,Botica Olicon,,,-11.9551803,-77.060575,NR04 - Comas - x - Olivares Condor Daniel - 
 NR04,Comas,x,Medicamentos Vida Saludable S.A.C.,Botica Vida & Farma,,,-11.9458294,-77.0499938,NR04 - Comas - x - Medicamentos Vida Saludable S.A.C. - 
 CE02,Breña,x,Llallico Tovar Zeida Zulema,Botica Cadena de Farmacias Salud Total,,,-12.0674959,-77.0511804,CE02 - Breña - x - Llallico Tovar Zeida Zulema - 
-CE02,La Victoria,x,COMERCIAL LA SANTÍSIMA MARÍA S.R.L.,Botica La Santísima Maria,,,-12.0621348,-77.0125059,CE02 - La Victoria - x - COMERCIAL LA SANTÍSIMA MARÍA S.R.L. - 
+CE02,La Victoria,x,COMERCIAL LA SANTISIMA MARÍA S.R.L.,Botica La Santisima Maria,,,-12.0621348,-77.0125059,CE02 - La Victoria - x - COMERCIAL LA SANTISIMA MARÍA S.R.L. - 
 CE02,El Agustino,x,Garcilazo Pingo de Pizarro Miriam Magdelin,Botica KamiFarma,,,-12.0410565,-76.9976453,CE02 - El Agustino - x - Garcilazo Pingo de Pizarro Miriam Magdelin - 
 CE02,El Agustino,x,x,Botica Cristo Rey,,,-12.0306789,-76.9990792,CE02 - El Agustino - x - x - 
 DES01,El Agustino,x,Fernandez Llamo Jose Elder,Botica Farma Salud,,,-12.044377,-76.9858563,DES01 - El Agustino - x - Fernandez Llamo Jose Elder - 
@@ -178,7 +178,7 @@ NR05,PP,c10430866643,Villanueva Martinez Mercedes Natali,Botica San Martin,Salid
 NR05,PP,06099973,Boticas Alpamayo Farma E.I.R.L.,Botica Alpamayo Farma,,,-11.8643087,-77.0740395,NR05 - PP - 06099973 - Boticas Alpamayo Farma E.I.R.L. - 
 NR05,PP,99105392,Guerrero Avila Melva,Botica Edy Farma,,,-11.8434957,-77.1004997,NR05 - PP - 99105392 - Guerrero Avila Melva - 
 NR05,Ancon,c10726739965,Marin Arroyo Luis Enrique,Botica Inversiones Marin Farma,Voltear izquierda peaje Ancon,,-11.7435926,-77.1475957,NR05 - Ancon - c10726739965 - Marin Arroyo Luis Enrique - Voltear izquierda peaje Ancon
-NR03,Ventanilla/Mi Peru,9901010309,Salinas Quiñones Jheni,Botica B&M,,,-11.8518606,-77.1218811,NR03 - Ventanilla/Mi Peru - 9901010309 - Salinas Quiñones Jheni - 
+NR03,Ventanilla/Mi Perú,9901010309,Salinas Quiñones Jheni,Botica B&M,,,-11.8518606,-77.1218811,NR03 - Ventanilla/Mi Perú - 9901010309 - Salinas Quiñones Jheni - 
 NR03,Ventanilla/Callao,20611160,Farmacia Minkafarm Salud E.I.R.L.,Botica MinkaFarm Salud,x,,-11.9435907,-77.1134134,NR03 - Ventanilla/Callao - 20611160 - Farmacia Minkafarm Salud E.I.R.L.
 NR03,Callao,19906000,Neyra Neira Margarita Rosario,Botica La Esperanza,,,-11.9862377,-77.1158248,NR03 - Callao - 19906000 - Neyra Neira Margarita Rosario - 
 NR01,Los Olivos,c10761315931,Valdera Santisteban Liliana Maribel,Botica Sin Nombre,Botica Unifarma,,-11.9807619,-77.1057117,NR01 - Los Olivos - c10761315931 - Valdera Santisteban Liliana Maribel - Botica Unifarma
@@ -186,7 +186,7 @@ NR01,Los Olivos,x,Sosa Espinoza Romy Martha,Botica Sin Nombre,Botica Leo’s Vit
 NR01,SMP,09907856,Cervantes Tadeo Deysi Guisela,Botica Master Botikas,,,-11.9944076,-77.1047849,NR01 - SMP - 09907856 - Cervantes Tadeo Deysi Guisela - 
 NR01,Callao,9901010508,Boticas PeruSalud/ Boticas Cega E.I.R.L.,Botica Perusalud,,,-12.0083317,-77.1023865,NR01 - Callao - 9901010508 - Boticas PeruSalud/ Boticas Cega E.I.R.L. - 
 NR03,Callao,10257669,Pajuelo Lopez Jaime Enrique,Farmacia Q. F. Bio & Salud,,,-12.0628225,-77.1090069,NR03 - Callao - 10257669 - Pajuelo Lopez Jaime Enrique - 
-NR01,SMP,0199043,Idrogo Vasquez Elmer,Farmacia Sagrado Corazón de Jesus,,,-11.9669315,-77.0899862,NR01 - SMP - 0199043 - Idrogo Vasquez Elmer- 
+NR01,SMP,0199043,Idrogo Vasquez Elmer,Farmacia Sagrado Corazon de Jesus,,,-11.9669315,-77.0899862,NR01 - SMP - 0199043 - Idrogo Vasquez Elmer- 
 NR04,SMP,04176365,Erolito Poma Noemi Graciela,Botica Nicol - Borrar,,,-11.9668378,-77.0951283,NR04 - SMP - 04176365 - Erolito Poma Noemi Graciela - 
 NR01,SMP,19824528,Cervantes Poma Maximo Alejandro,Botica Max Farma,Por un Mercado en la misma Avenida Tantamayo,,-11.9594377,-77.0970115,NR01 - SMP - 19824528 - Cervantes Poma Maximo Alejandro - Por un Mercado en la misma Avenida Tantamayo
 NR01,SMP,20608152,Corporación Mailena S.A.C.,Botica Mailena,x,,-11.9577845,-77.0887488,NR01 - SMP - 20608152 - Corporación Mailena S.A.C.
@@ -206,7 +206,7 @@ SU02,VMT,06020029,Inversiones Beym SAC,Botica Nicol Farma,,,-12.1959052,-76.9225
 SU02,VMT,01430225,More Durand Elia Marisol,Botica Ely,,,-12.1901381,-76.9227668,SU02 - VMT - 01430225 - More Durand Elia Marisol - 
 SU02,VES,01280069,Estrada Pita Luis Fernando,Botica Isabella,,,-12.2185965,-76.932416,SU02 - VES - 01280069 - Estrada Pita Luis Fernando - 
 SU05,Lurin,01190043,Borja Avalos Ketty Edtih,Botica El Pueblo,,,-12.2973911,-76.8505402,SU05 - Lurin - 01190043 - Borja Avalos Ketty Edtih - 
-SU03,Chorrillos,01080080,Farmacenter Liz E.I.R.L.,Botica Más Salud,,,-12.1877831,-77.0080288,SU03 - Chorrillos - 01080080 - Farmacenter Liz E.I.R.L. - 
+SU03,Chorrillos,01080080,Farmacenter Liz E.I.R.L.,Botica Mas Salud,,,-12.1877831,-77.0080288,SU03 - Chorrillos - 01080080 - Farmacenter Liz E.I.R.L. - 
 SU03,Surco,x,x,Botica Farmaceutical SDC,,,-12.165122,-76.9927227,SU03 - Surco - x - x - 
 SU03,Surco,c10413258443,Díaz Silva Elva Carina,Botica Liliana,,,-12.1526693,-76.9861829,SU03 - Surco - c10413258443 - Díaz Silva Elva Carina - 
 NR04,Comas/Los Olivos,01992685,Acuña Cabrera de Torres Otolia Libna,Botica Pharma Salud,,,-11.9500912,-77.0626472,NR04 - Comas/Los Olivos - 01992685 - Acuña Cabrera de Torres Otolia Libna - 
@@ -220,3 +220,24 @@ NR04,Carabayllo,x,x,Botica Vasquez,,,-11.8135567,-77.0462573,NR04 - Carabayllo -
 NR04,PP,10407727,Garcia Cordova Diney,Botica Haylli,,,-11.8433136,-77.0851771,NR04 - PP - 10407727 - Garcia Cordova Diney - 
 NR03,Ventanilla,x,x,Botica Multisalud,,,-11.8408455,-77.122789,NR03 - Ventanilla - x - x - 
 NR03,Ventanilla,x,x,Botica Miguel Angel,Fachada Botica Salud Pharma,,-11.8300588,-77.1187321,NR03 - Ventanilla - x - x - Fachada Botica Salud Pharma
+NR05,PP,x,Salazar Becerra Ronald Ever,Botica Sin Nombre,,,-11.8780894,-77.0596379,NR05 - PP - x - Salazar Becerra Ronald Ever - 
+NR05,Zapalla/PP,x,x,Botica Norteño,,,-11.8565546,-77.0841556,NR05 - Zapalla/PP - x - x - 
+NR03,Callao,x,Meza Osorio Julio Cesar,Botica J & D,,,-12.0621003,-77.1368678,NR03 - Callao - x - Meza Osorio Julio Cesar - 
+NR01,SMP,990100995,Suarez Celiz Esgar,Botica H & S,,,-11.986232,-77.1153969,NR01 - SMP - 990100995 - Suarez Celiz Esgar - 
+NR01,Los Olivos,x,x,Botica Salvador,,,-12.0066192,-77.068252,NR01 - Los Olivos - x - x - 
+CE02,Pueblo Libre,01210016,J. M. P. Botica Brasil E. I. R. L,Botica Brasil,,,-12.0713634,-77.0609365,CE02 - Pueblo Libre - 01210016 - J. M. P. Botica Brasil E. I. R. L - 
+NR04,Comas,c10772983714,Rojas Gomez Lesscy Maricruz,Botica Sin Nombre,Frente a la parroquia Jesus Obrero,,-11.9539305,-77.051345,NR04 - Comas - c10772983714 - Rojas Gomez Lesscy Maricruz - Frente a la parroquia Jesus Obrero
+NR04,Carabayllo,x,Sepulveda Fasabi Karina Evelis,Botica Punto Farma,,,-11.8513016,-77.0026783,NR04 - Carabayllo - x - Sepulveda Fasabi Karina Evelis - 
+NR05,Ancón,c10434653873,Trujillo Clemente Dabid Moises,Botica D & L/Libreria Rosa’s,,,-11.8147377,-77.1361892,NR05 - Ancón - c10434653873 - Trujillo Clemente Dabid Moises - 
+NR05,PP/Ensenada,c20392566571,Inversiones Heredia E.I.R.L.,Botica Ekofarma,,,-11.9346706,-77.0846359,NR05 - PP/Ensenada - c20392566571 - Inversiones Heredia E.I.R.L. - 
+NR01,Los Olivos/SMP,01220002,Grupo Intifarma S.A.C.,Botica Norfarma,,,-11.9765389,-77.082483,NR01 - Los Olivos/SMP - 01220002 - Grupo Intifarma S.A.C. - 
+NR05,Zapallal/PP,99105395,Mika Farmex S.A.C.,Botica MikaFarmex,,,-11.8490103,-77.0986404,NR05 - Zapallal/PP - 99105395 - Mika Farmex S.A.C. - 
+NR01,SMP/Ensenada,01350192,Farmaceuticos Virgen de la puerta E.I.R.L.,Botica Virgen de la Puerta,,,-11.9479045,-77.068372,NR01 - SMP/Ensenada - 01350192 - Farmaceuticos Virgen de la puerta E.I.R.L. - 
+NR04,Comas,x,Nauto Olarte Maria Ysabel,Botica Señor de los Milagros,Dentro del Mercado El Progreso,,-11.9443802,-77.0332601,NR04 - Comas - x - Nauto Olarte Maria Ysabel - Dentro del Mercado El Progreso
+NR01,SMP/Ensenada,x,Grupo Luhm Salud S.A.C.,Botica Cytifarma,Cerca a la planta,,-11.9232208,-77.0748753,NR01 - SMP/Ensenada - x - Grupo Luhm Salud S.A.C. - Cerca a la planta
+NR03,Ventanilla,x,Cervera Olivera Cinthia Anshili,Botica FarmaSalud,,,-11.8313778,-77.1485122,NR03 - Ventanilla - x - Cervera Olivera Cinthia Anshili - 
+NR03,Ventanilla,x,Lino Trujillo Adelma Sirlene,Botica Jedima,Fachada Botica LinFarma,,-11.8698895,-77.1136089,NR03 - Ventanilla - x - Lino Trujillo Adelma Sirlene - Fachada Botica LinFarma
+NR05,PP,614013908,Corporacion Walu S.A.C.,Botica Zaidfarma,,,-11.8606687,-77.0888413,NR05 - PP - 614013908 - Corporacion Walu S.A.C. - 
+NR05,PP,C10400605608,Ramírez Ramos Patricia Jannet,Botica consultorio renacer,,,-11.8630875,-77.0790896,NR05 - PP - C10400605608 - Ramírez Ramos Patricia Jannet - 
+NR04,Carabayllo/Comas,01990231,Hanco Albino Crisalda Luisa,Botica Flor,,,-11.89656,-77.0292644,NR04 - Carabayllo/Comas - 01990231 - Hanco Albino Crisalda Luisa - 
+NR03,Callao,x,x,Botica SuriFarma,,,-12.0208557,-77.1393396,NR03 - Callao - x - x - 
