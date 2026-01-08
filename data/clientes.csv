@@ -102,7 +102,7 @@ NR03,Callao/SMP,x,Silva Torres Isabel Susan,Botica Fabricio S&A,,,-11.9838155,-7
 NR01,Callao/SMP,x,Inversiones Semmas EIRL,Botica Los Angeles,Al costado de GoodPharma,,-11.9733855,-77.1029524,NR01 - Callao/SMP - x - Inversiones Semmas EIRL - Al costado de GoodPharma
 NR03,Callao/SMP,x,Boticas M&S SAC,Botica M&S,x,,-12.0233297,-77.0982114,NR03 - Callao/SMP - x - Boticas M&S SAC
 NR03,Callao,x,Fernandez Ore Maximo Rene,Botica de A Sol Gimena/Jimena,,,-12.0401095,-77.0901608,NR03 - Callao - x - Fernandez Ore Maximo Rene - 
-NR01,Zarumilla,x,,Botica,x,,-12.0346296,-77.0472402,NR01 - Zarumilla - x - 
+NR01,SMP/Zarumilla,990101032,Inversiones Nathaly S.R.L.,Botica Vida & Salud,,,-12.0346296,-77.0472402,NR01 - SMP/Zarumilla - 990101032 - Inversiones Nathaly S.R.L. - 
 NR05,Puente Piedra,x,Mallco Huarcaya Edwin,Botica MiFarmedic,x,,-11.8904218,-77.0670234,NR05 - Puente Piedra - x - Mallco Huarcaya Edwin
 NR05,Zapallal,c20614178788,Inversiones Norvack E.I.R.L.,Botica BTL Farma/Norvack,,,-11.8539097,-77.0893888,NR05 - Zapallal - c20614178788 - Inversiones Norvack E.I.R.L. - 
 NR05,Zapallal,x,x,Botica InkaLider,x,,-11.8427475,-77.1014021,NR05 - Zapallal
@@ -140,7 +140,7 @@ NR03,Ventanilla,x,x,Botica Famy Salud,,,-11.8436848,-77.1273087,NR03 - Ventanill
 NR03,Ventanilla,x,Bances Chapoñan Erika Aracely,Botica GissFarma,Fachada Pro Farma,,-11.8300802,-77.1186977,NR03 - Ventanilla - x - Bances Chapoñan Erika Aracely - Fachada Pro Farma
 NR03,Callao/Ventanilla,x,,Botica Señor de Mayo,x,,-11.9747426,-77.1153839,NR03 - Callao/Ventanilla - x - 
 NR01,Los Olivos,x,Grupo Josmil SAC,Botica NorFarma,Antes de Huandoy viniendo por Canta Callao,,-11.9490388,-77.0800873,NR01 - Los Olivos - x - Grupo Josmil SAC - Antes de Huandoy viniendo por Canta Callao
-NR04,Carabayllo/Comas,x,Cuadros Oriondo Ruth Liliana,Botica FarmaUnidas,,,-11.8912918,-77.0253582,NR04 - Carabayllo/Comas - x - Cuadros Oriondo Ruth Liliana - 
+NR04,Carabayllo/Comas,c10095508885,Cuadros Oriondo Ruth Liliana,Botica FarmaUnidas,,,-11.8912918,-77.0253582,NR04 - Carabayllo/Comas - c10095508885 - Cuadros Oriondo Ruth Liliana - 
 NR05,PP,x,Perez Linares Maria Elita,Casa Cliente Perez Linares Maria Elita,,,-11.8561803,-77.0709865,NR05 - PP - x - Perez Linares Maria Elita - 
 NR05,PP,x,Tolentino Alegre Ines Jessica,Botica Super Farma,,,-11.8547684,-77.0687875,NR05 - PP - x - Tolentino Alegre Ines Jessica - 
 NR03,Ventanilla/Pachacutec,x,Inversiones MasterFarm S.A.C.,Botica InkaMedi,Tiene nombre Botica Mi Salud,,-11.8523001,-77.1409705,NR03 - Ventanilla/Pachacutec - x - Inversiones MasterFarm S.A.C. - Tiene nombre Botica Mi Salud
@@ -251,9 +251,15 @@ NR04,Comas,c10028831159,Juarez Gomez Gissela Yreny,Botica Gisela,,,-11.9598233,-
 NR04,Carabayllo,70778414,Marcelo Huaqui Yaquelin Fiorela,Botica M & H Farma,,,-11.8294603,-77.0813002,NR04 - Carabayllo - 70778414 - Marcelo Huaqui Yaquelin Fiorela - 
 X,x,x,x,LAFARMED - Almacen Piedritas,,,-11.8187056,-77.07525,X - x - x - x - 
 NR03,Ventana,c10036928951,Lalupu Sullon Angelica,Botica Betsy,Costado izquierdo de la muni de Ventanilla,,-11.8773341,-77.1284061,NR03 - Ventana - c10036928951 - Lalupu Sullon Angelica - Costado izquierdo de la muni de Ventanilla
-NR03,Ventanilla,10469345,Raymundo Rodriguez Henry Edwin,Botica Mundo Salud,,,-11.8574915,-77.1252251,NR03 - Ventanilla - 10469345 - Raymundo Rodriguez Henry Edwin - 
+NR03,Ventanilla,10469345,Raymundo Rodriguez Henry Edwin/Altamirano Patricio Kelmer Guzman,Botica Mundo Salud,,,-11.8574915,-77.1252251,NR03 - Ventanilla - 10469345 - Raymundo Rodriguez Henry Edwin/Altamirano Patricio Kelmer Guzman - 
 NR03,Ventana,9903328,Q. F. Romero E.I.R.L.,Botica Miahorro,,,-11.8306449,-77.1305665,NR03 - Ventana - 9903328 - Q. F. Romero E.I.R.L. - 
 NR01,Los Olivos,c10084759215,Arteaga Noel de Cristobal Nelly Teresa,Botica Sin Nombre,Jr. Caraz 1037,,-11.9941548,-77.0744594,NR01 - Los Olivos - c10084759215 - Arteaga Noel de Cristobal Nelly Teresa - Jr. Caraz 1037
 NR05,PP,19906423,MLT Econobotica E.I.R.L.,Botica MLT Econo Botica,Ensenada,,-11.9352081,-77.0957985,NR05 - PP - 19906423 - MLT Econobotica E.I.R.L. - Ensenada
 NR05,PP,9910189,Paz Peralta Ylda Flor,Botica Mas Salud,,,-11.9220392,-77.0847576,NR05 - PP - 9910189 - Paz Peralta Ylda Flor - 
 NR05,PP,c10781153953,Salazar Medico Nelly Consuelo,Botica Sin Nombre,Fachada Botica Tessa,,-11.9167338,-77.0776928,NR05 - PP - c10781153953 - Salazar Medico Nelly Consuelo - Fachada Botica Tessa
+NR04,Comas,01120003,Carrasco Condori Dario Rochard,Botica Red Farma,,,-11.955896,-77.052102,NR04 - Comas - 01120003 - Carrasco Condori Dario Rochard - 
+NR05,PP,07679566,Galoc Acuña Rosmely,Botica BioFarma,,,-11.8780006,-77.0615735,NR05 - PP - 07679566 - Galoc Acuña Rosmely - 
+NR05,PP,04470095,Trujillo Barrera Agustin,Botica Cadena mi botica,,,-11.8767717,-77.063564,NR05 - PP - 04470095 - Trujillo Barrera Agustin - 
+NR05,PP,C10447867228,Ancajima Morales Maria Pascuala,Botica Sin Nombre,Fachada Belen Farma,,-11.8540111,-77.074226,NR05 - PP - C10447867228 - Ancajima Morales Maria Pascuala - Fachada Belen Farma
+NR04,PP/Carabayllo,04579646,Huaman Castillo Brusli Menfis,Botica Menfis,,,-11.8419005,-77.0760117,NR04 - PP/Carabayllo - 04579646 - Huaman Castillo Brusli Menfis - 
+NR05,PP,19906423,MLT Econobotica E.I.R.L.,MLT EconoBotica,Ensenada,,-11.923313,-77.0773641,NR05 - PP - 19906423 - MLT Econobotica E.I.R.L. - Ensenada
